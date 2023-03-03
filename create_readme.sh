@@ -6,7 +6,7 @@ list_wall_of_a_folder () {
 		file_basename=$(basename "${file}" .jpg)
 		file_basename=$(basename "${file_basename}" .png)
 		printf "\n\n=== %s" "${file_basename}" >> README.adoc
-		printf "\n\nimage::%s/preview_%s[scaledwidth=50%%]" "$(dirname ${file})" "$(basename ${file})" >> README.adoc
+		printf "\n\nimage::%s/preview_%s[link=%s/%s]" "$(dirname ${file})" "$(basename ${file})" "$(dirname ${file})" "$(basename ${file})" >> README.adoc
 	done
 }
 
