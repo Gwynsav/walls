@@ -1,12 +1,12 @@
 #!/bin/bash
 
 list_wall_of_a_folder () {
-	find "${1}" -type f -print0 | while IFS= read -r -d '' file
+	find "${1}" -type f \! -name "preview_*" -print0 | while IFS= read -r -d '' file
 	do
 		file_basename=$(basename "${file}" .jpg)
 		file_basename=$(basename "${file_basename}" .png)
 		printf "\n\n=== %s" "${file_basename}" >> README.adoc
-		printf "\n\nimage::%s[scaledwidth=50%%]" "${file}" >> README.adoc
+		printf "\n\nimage::%s/preview_%s[scaledwidth=50%%]" "$(dirname ${file})" "$(basename ${file})" >> README.adoc
 	done
 }
 
