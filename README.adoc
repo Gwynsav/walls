@@ -1,2 +1,2 @@
-# walls
+= walls
 Personal collection of wallpapers.
