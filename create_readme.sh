@@ -3,11 +3,10 @@
 # Header of the README
 printf "= walls\nPersonal collection of wallpapers." > README.adoc
 
-for dir in $(find . -maxdepth 1 -type d \! -name ".git" \! -name "." \! -name "docs")
-do
-	dir_basename=$(basename "${dir}")
+find . -maxdepth 1 -type d \! -name ".git" \! -name "." \! -name "docs" -exec sh -c '
+	dir_basename=$(basename "${1}")
 	printf "\n\n== %s" "${dir_basename}" >> README.adoc
-done
+' sh {} \;
 
 # Remove the "no newline at the end of file"
 printf "\n" >> README.adoc
