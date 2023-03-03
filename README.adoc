@@ -1,2 +1,36 @@
 = walls
 Personal collection of wallpapers.
+
+== abstract
+
+== anime
+
+== catppuccin
+
+== decay
+
+== everblush
+
+== everforest
+
+== fantasy
+
+== flowers
+
+== forest
+
+== gruvbox
+
+== landscape
+
+== paintings
+
+== sea
+
+== sky
+
+== solarized
+
+== tokyonight
+
+== urban
