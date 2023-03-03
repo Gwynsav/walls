@@ -3,34 +3,610 @@ Personal collection of wallpapers.
 
 == abstract
 
+=== abstract/AbstractHyperBeast.jpg
+
+=== abstract/AbstractMountains.png
+
+=== abstract/AbstractSwirls.jpg
+
+=== abstract/BeigeTriangles.jpg
+
+=== abstract/BlackMagma.jpg
+
+=== abstract/BlackMetal.jpg
+
+=== abstract/BlueGradient.jpg
+
+=== abstract/BluePinkGradient.jpg
+
+=== abstract/BongoCat.png
+
+=== abstract/ChineseCaligraphy.jpg
+
+=== abstract/ColorfulFlowers.jpg
+
+=== abstract/CustomKeyboard.png
+
+=== abstract/Dots.jpg
+
+=== abstract/GreenFluid.png
+
+=== abstract/Hecker.jpg
+
+=== abstract/LightBulbs.jpg
+
+=== abstract/OrangeCubes.png
+
+=== abstract/PlantCell.jpg
+
+=== abstract/PokePattern.png
+
+=== abstract/PurpleFluid.png
+
+=== abstract/WhiteKitties.jpg
+
+=== abstract/Woodman.jpg
+
 == anime
+
+=== anime/AE86Trueno.jpg
+
+=== anime/AnimeWaiting.png
+
+=== anime/ClockworkAnime.jpg
+
+=== anime/ClockworkAnimeOG.jpg
+
+=== anime/EvangelionSilly.png
+
+=== anime/Eyes.jpg
+
+=== anime/FantasyAnime.jpg
+
+=== anime/FloatingTrain.jpg
+
+=== anime/GirlAndCorgi.png
+
+=== anime/InsideMari.png
+
+=== anime/KobayashiCar.jpg
+
+=== anime/MangaPIP1.jpg
+
+=== anime/MangaPIP2.png
+
+=== anime/MangaSketch.jpg
+
+=== anime/Overpopulation.jpg
+
+=== anime/PowerChainsawMan.png
+
+=== anime/PregnantCapacitator.png
+
+=== anime/RainyDay.jpg
+
+=== anime/SmdMaintenance.jpg
+
+=== anime/SmdSenpai.png
+
+=== anime/ThornThrone.png
+
+=== anime/UsesKizuPalette.png
+
+=== anime/Waiting2.jpg
 
 == catppuccin
 
+=== catppuccin/AbstractMountains.png
+
+=== catppuccin/Bass.png
+
+=== catppuccin/BlossomsCatppuccin.png
+
+=== catppuccin/Flowers.png
+
+=== catppuccin/Leaves.png
+
+=== catppuccin/MangaPIP2.png
+
+=== catppuccin/PixelartCity.png
+
+=== catppuccin/RainyDay.jpg
+
 == decay
+
+=== decay/Building.png
+
+=== decay/Cabin.jpg
+
+=== decay/Campfire.png
+
+=== decay/Dots.png
+
+=== decay/PoolBar.jpg
+
+=== decay/SmdMaintenance.jpg
+
+=== decay/Wave.png
 
 == everblush
 
+=== everblush/Anger.png
+
+=== everblush/Arch.png
+
+=== everblush/BeProductive.png
+
+=== everblush/Circles.png
+
+=== everblush/Dice.png
+
+=== everblush/EOS.png
+
+=== everblush/Fedora.png
+
+=== everblush/Generic.png
+
+=== everblush/Gentoo.png
+
+=== everblush/Here.png
+
+=== everblush/Manjaro.png
+
+=== everblush/Mountain.png
+
+=== everblush/Night.png
+
+=== everblush/Pacman.png
+
+=== everblush/Patterns.png
+
+=== everblush/Pixel.png
+
+=== everblush/RHEL.png
+
+=== everblush/Retro.png
+
+=== everblush/Sharks.png
+
+=== everblush/Void.png
+
 == everforest
+
+=== everforest/Colt.png
+
+=== everforest/Flowers.png
+
+=== everforest/Japan.png
+
+=== everforest/Rain.jpeg
+
+=== everforest/Road.png
+
+=== everforest/Shop.png
+
+=== everforest/Succulent.png
 
 == fantasy
 
+=== fantasy/AnotherFantasyCastle.jpg
+
+=== fantasy/AsianPond.jpg
+
+=== fantasy/AsianVenice.png
+
+=== fantasy/BioshockRapture.jpg
+
+=== fantasy/BloodborneBridge.jpg
+
+=== fantasy/CrusaderArmy.jpg
+
+=== fantasy/DarkNight.jpg
+
+=== fantasy/DarkSoulsIII.jpg
+
+=== fantasy/ElCheapoTatooine.jpg
+
+=== fantasy/FantasyCastle.png
+
+=== fantasy/FantasyMural.jpg
+
+=== fantasy/FantasyRuins.png
+
+=== fantasy/FlyingFish.png
+
+=== fantasy/FlyingIslands.jpg
+
+=== fantasy/FlyingWhale.jpg
+
+=== fantasy/GreatTree.jpg
+
+=== fantasy/HandValley.png
+
+=== fantasy/MedievalLandscape.jpg
+
+=== fantasy/NekomataRailwayGirl.png
+
+=== fantasy/NordishCemetery.jpg
+
+=== fantasy/OverSaturatedJapaneseTree.jpg
+
+=== fantasy/PutridHollow.jpg
+
+=== fantasy/SoulOfCinder.png
+
+=== fantasy/UmbrellaCarpet.png
+
 == flowers
+
+=== flowers/BigRed.jpg
+
+=== flowers/BlossomingTwigs.jpg
+
+=== flowers/BlurredOutFlowers.jpg
+
+=== flowers/BlurryFlowers.jpg
+
+=== flowers/BlurryWarmFlowers.jpg
+
+=== flowers/BouquetOnOliveGreen.jpg
+
+=== flowers/BranchedBlossoms.jpg
+
+=== flowers/ColorfulBouquet.jpg
+
+=== flowers/ColorfulVariety.jpg
+
+=== flowers/Daisies.jpg
+
+=== flowers/DarkWhiteRose.jpg
+
+=== flowers/FenceFlowers.jpg
+
+=== flowers/Flashbang.jpg
+
+=== flowers/Gray.jpg
+
+=== flowers/LilacBush.jpg
+
+=== flowers/Matricarias.jpg
+
+=== flowers/OutdoorWhite.jpg
+
+=== flowers/OvergrownField.jpg
+
+=== flowers/PeacefulFlower.jpg
+
+=== flowers/PinkBlossoms.jpg
+
+=== flowers/PinkFlowers.jpg
+
+=== flowers/RoseDark.png
+
+=== flowers/Sepia.jpg
+
+=== flowers/VanGoghOilPainting.jpg
+
+=== flowers/VibrantPink.jpg
+
+=== flowers/WetBud.jpg
+
+=== flowers/Wheat.jpg
+
+=== flowers/WhiteFlowers.jpg
+
+=== flowers/WhiteFlowers.png
+
+=== flowers/WhiteRose.png
 
 == forest
 
+=== forest/BatSwarm.jpg
+
+=== forest/BirdsEyeForest.png
+
+=== forest/BlackMetalMadeForest.jpg
+
+=== forest/ChillCabin.png
+
+=== forest/DrippingBranches.jpg
+
+=== forest/FantasyWoods.jpg
+
+=== forest/FellTrunk.jpg
+
+=== forest/FoggyWoods.jpg
+
+=== forest/Forest.jpg
+
+=== forest/ForestPath.jpg
+
+=== forest/FrozenForest.jpg
+
+=== forest/GloomyWoods.jpg
+
+=== forest/Leaves.jpg
+
+=== forest/PineForest.jpg
+
+=== forest/RussianTrees.jpg
+
+=== forest/SnowyForest.jpg
+
+=== forest/SnowyWoods.jpg
+
+=== forest/WormsEye.jpg
+
 == gruvbox
+
+=== gruvbox/AsianHills.jpg
+
+=== gruvbox/CyberpunkRooftops.jpg
+
+=== gruvbox/Forest.png
+
+=== gruvbox/InTown.jpg
+
+=== gruvbox/Lines.png
+
+=== gruvbox/LinesDarker.png
+
+=== gruvbox/Platform.jpg
 
 == landscape
 
+=== landscape/AutumnRoad.png
+
+=== landscape/BigLake.png
+
+=== landscape/BurningCar.jpg
+
+=== landscape/CloudyMountain.jpg
+
+=== landscape/DarkMountains.jpg
+
+=== landscape/FlowingWaterfalls.jpg
+
+=== landscape/GrainFieldSunset.jpg
+
+=== landscape/IronBridge.jpg
+
+=== landscape/JungleMountains.jpg
+
+=== landscape/LilacsPainting.jpg
+
+=== landscape/MuricaRocks.jpg
+
+=== landscape/PagodaPixelArt.jpg
+
+=== landscape/PoolBar.jpg
+
+=== landscape/RockyMountains.jpg
+
+=== landscape/SnowyHorizon.jpg
+
+=== landscape/SnowyMountains.jpg
+
+=== landscape/Somewhere.jpg
+
+=== landscape/WheatField.jpg
+
+=== landscape/Windmill.jpg
+
+=== landscape/WinterLandscape.jpg
+
+=== landscape/WinteryChurch.jpg
+
+=== landscape/XPModern.jpg
+
+=== landscape/YosemiteLandscape.jpg
+
 == paintings
+
+=== paintings/BattleOfGrunwald.jpg
+
+=== paintings/LondonOverview.jpg
+
+=== paintings/SinkingVessel.jpg
+
+=== paintings/VenicePainting.jpg
 
 == sea
 
+=== sea/Beach.jpg
+
+=== sea/Coast.jpg
+
+=== sea/CoastWaves.jpg
+
+=== sea/ComfyWaves.jpg
+
+=== sea/CozyCoast.png
+
+=== sea/EtherealSea.jpg
+
+=== sea/FoamyBeach.jpg
+
+=== sea/IceOnTheSea.jpg
+
+=== sea/Lighthouse.jpg
+
+=== sea/Lighthouse.png
+
+=== sea/MoarBeach.jpg
+
+=== sea/OceanFront.png
+
+=== sea/ProllyGoingToDegirl.png
+
+=== sea/SeaFoam.jpg
+
+=== sea/WarmWaves.jpg
+
+=== sea/WildWaves.jpg
+
+=== sea/YetAnotherSeaWallpaper.jpg
+
 == sky
+
+=== sky/BrownBuilding.jpg
+
+=== sky/Clouds.jpg
+
+=== sky/CloudsCyan.jpg
+
+=== sky/ColorfulParachute.jpg
+
+=== sky/DegirledAnimeClouds.png
+
+=== sky/GirlRemoved.png
+
+=== sky/GodrayClouds.jpg
+
+=== sky/GoldenGate.jpg
+
+=== sky/GoldenGateLandscape.jpg
+
+=== sky/LonePlane.jpg
+
+=== sky/MinimalistBuilding.jpg
+
+=== sky/ModernArchitecture.jpg
+
+=== sky/Nebula.jpg
+
+=== sky/NightSky.jpg
+
+=== sky/PalmLeaves.jpg
+
+=== sky/UrbanSky.jpg
+
+=== sky/WeatherStation.jpg
+
+=== sky/WormsEyeUrban.jpg
 
 == solarized
 
+=== solarized/ColorfulBall.png
+
+=== solarized/DotFlurry.png
+
+=== solarized/Elements.jpg
+
+=== solarized/Leaves.png
+
+=== solarized/NightCitySky.jpg
+
+=== solarized/Owl.jpg
+
+=== solarized/SolarizedDots.png
+
+=== solarized/SolarizedFilesystem.png
+
 == tokyonight
 
+=== tokyonight/AnimeWaiting.png
+
+=== tokyonight/AnimeWaiting2.jpg
+
+=== tokyonight/ChainsawMan.png
+
+=== tokyonight/PixelartCity.png
+
+=== tokyonight/Simple.png
+
+=== tokyonight/Space.png
+
+=== tokyonight/ToyCity.jpg
+
+=== tokyonight/WithTheGirl:chad:.png
+
 == urban
+
+=== urban/AirplaneCat.jpg
+
+=== urban/AnimeDocks.jpg
+
+=== urban/AnimeRailway.png
+
+=== urban/ApartmentComplex.jpg
+
+=== urban/AsianBuildings.jpg
+
+=== urban/AutumnLada.jpg
+
+=== urban/BackalleyDoor.jpg
+
+=== urban/BlockOfFlats.jpg
+
+=== urban/Burocracy:(.jpg
+
+=== urban/CatLooksSus.jpg
+
+=== urban/CemeteryStreet.jpg
+
+=== urban/CentralPark.jpg
+
+=== urban/ChicagoRailway.jpg
+
+=== urban/ChinesePixelSquare.png
+
+=== urban/ColorfulHouse.png
+
+=== urban/CozyLamps.jpg
+
+=== urban/CyberpunkConstruction.jpg
+
+=== urban/CyberpunkPixelart.png
+
+=== urban/CyberpunkPixelartBlue.png
+
+=== urban/FrenchRevolution.jpg
+
+=== urban/GermanHouses.jpg
+
+=== urban/JapaneseStreetView.jpg
+
+=== urban/Kitty:3.jpg
+
+=== urban/Laamp.jpg
+
+=== urban/LamppostReflection.jpg
+
+=== urban/Lampposts.jpg
+
+=== urban/Moscow.jpg
+
+=== urban/NewYork.jpg
+
+=== urban/NightPark.jpg
+
+=== urban/NighttimeLandscape.png
+
+=== urban/NighttimeTrainTracks.png
+
+=== urban/OldTown.jpg
+
+=== urban/Paris.jpg
+
+=== urban/PixelBuildings.jpg
+
+=== urban/PixelBuildingsNord.png
+
+=== urban/StreetView.jpg
+
+=== urban/Streetlights.jpg
+
+=== urban/ThroughFence.jpg
+
+=== urban/Toronto.jpg
+
+=== urban/UrbanRiver.jpg
+
+=== urban/WarmCityscape.png
+
+=== urban/WetWinterRoad.jpg
+
+=== urban/WhiteSkyscraper.jpg
+
+=== urban/ZucholdArchitecture.jpg
