@@ -5,7 +5,7 @@ Personal collection of wallpapers.
 
 === AbstractHyperBeast
 
-image::abstract/preview_AbstractHyperBeast.jpg[scaledwidth=50%]
+image::abstract/preview_AbstractHyperBeast.jpg[link=abstract/AbstractHyperBeast.jpg]
 
 === AbstractMountains
 
