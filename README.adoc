@@ -91,54 +91,6 @@ image::abstract/preview_WhiteKitties.jpg[scaledwidth=50%]
 
 image::abstract/preview_Woodman.jpg[scaledwidth=50%]
 
-=== pre_AbstractMountains
-
-image::abstract/preview_pre_AbstractMountains.png[scaledwidth=50%]
-
-=== pre_CustomKeyboard
-
-image::abstract/preview_pre_CustomKeyboard.png[scaledwidth=50%]
-
-=== pre_OrangeCubes
-
-image::abstract/preview_pre_OrangeCubes.png[scaledwidth=50%]
-
-=== pre_PurpleFluid
-
-image::abstract/preview_pre_PurpleFluid.png[scaledwidth=50%]
-
-=== pre_AbstractHyperBeast
-
-image::abstract/preview_pre_AbstractHyperBeast.jpg[scaledwidth=50%]
-
-=== pre_BeigeTriangles
-
-image::abstract/preview_pre_BeigeTriangles.jpg[scaledwidth=50%]
-
-=== pre_BlackMetal
-
-image::abstract/preview_pre_BlackMetal.jpg[scaledwidth=50%]
-
-=== pre_BluePinkGradient
-
-image::abstract/preview_pre_BluePinkGradient.jpg[scaledwidth=50%]
-
-=== pre_ColorfulFlowers
-
-image::abstract/preview_pre_ColorfulFlowers.jpg[scaledwidth=50%]
-
-=== pre_Hecker
-
-image::abstract/preview_pre_Hecker.jpg[scaledwidth=50%]
-
-=== pre_PlantCell
-
-image::abstract/preview_pre_PlantCell.jpg[scaledwidth=50%]
-
-=== pre_Woodman
-
-image::abstract/preview_pre_Woodman.jpg[scaledwidth=50%]
-
 == anime
 
 === AE86Trueno
@@ -233,54 +185,6 @@ image::anime/preview_UsesKizuPalette.png[scaledwidth=50%]
 
 image::anime/preview_Waiting2.jpg[scaledwidth=50%]
 
-=== pre_AnimeWaiting
-
-image::anime/preview_pre_AnimeWaiting.png[scaledwidth=50%]
-
-=== pre_GirlAndCorgi
-
-image::anime/preview_pre_GirlAndCorgi.png[scaledwidth=50%]
-
-=== pre_MangaPIP2
-
-image::anime/preview_pre_MangaPIP2.png[scaledwidth=50%]
-
-=== pre_PregnantCapacitator
-
-image::anime/preview_pre_PregnantCapacitator.png[scaledwidth=50%]
-
-=== pre_ThornThrone
-
-image::anime/preview_pre_ThornThrone.png[scaledwidth=50%]
-
-=== pre_AE86Trueno
-
-image::anime/preview_pre_AE86Trueno.jpg[scaledwidth=50%]
-
-=== pre_ClockworkAnimeOG
-
-image::anime/preview_pre_ClockworkAnimeOG.jpg[scaledwidth=50%]
-
-=== pre_FantasyAnime
-
-image::anime/preview_pre_FantasyAnime.jpg[scaledwidth=50%]
-
-=== pre_KobayashiCar
-
-image::anime/preview_pre_KobayashiCar.jpg[scaledwidth=50%]
-
-=== pre_MangaSketch
-
-image::anime/preview_pre_MangaSketch.jpg[scaledwidth=50%]
-
-=== pre_RainyDay
-
-image::anime/preview_pre_RainyDay.jpg[scaledwidth=50%]
-
-=== pre_Waiting2
-
-image::anime/preview_pre_Waiting2.jpg[scaledwidth=50%]
-
 == catppuccin
 
 === AbstractMountains
@@ -314,10 +218,6 @@ image::catppuccin/preview_PixelartCity.png[scaledwidth=50%]
 === RainyDay
 
 image::catppuccin/preview_RainyDay.jpg[scaledwidth=50%]
-
-=== pre_RainyDay
-
-image::catppuccin/preview_pre_RainyDay.jpg[scaledwidth=50%]
 
 == decay
 
@@ -1286,7 +1186,3 @@ image::urban/preview_WhiteSkyscraper.jpg[scaledwidth=50%]
 === ZucholdArchitecture
 
 image::urban/preview_ZucholdArchitecture.jpg[scaledwidth=50%]
-
-=== pre_ZucholdArchitecture
-
-image::urban/preview_pre_ZucholdArchitecture.jpg[scaledwidth=50%]
