@@ -5,1184 +5,1288 @@ Personal collection of wallpapers.
 
 === AbstractHyperBeast
 
-image::abstract/AbstractHyperBeast.jpg[scaledwidth=50%]
+image::abstract/preview_AbstractHyperBeast.jpg[scaledwidth=50%]
 
 === AbstractMountains
 
-image::abstract/AbstractMountains.png[scaledwidth=50%]
+image::abstract/preview_AbstractMountains.png[scaledwidth=50%]
 
 === AbstractSwirls
 
-image::abstract/AbstractSwirls.jpg[scaledwidth=50%]
+image::abstract/preview_AbstractSwirls.jpg[scaledwidth=50%]
 
 === BeigeTriangles
 
-image::abstract/BeigeTriangles.jpg[scaledwidth=50%]
+image::abstract/preview_BeigeTriangles.jpg[scaledwidth=50%]
 
 === BlackMagma
 
-image::abstract/BlackMagma.jpg[scaledwidth=50%]
+image::abstract/preview_BlackMagma.jpg[scaledwidth=50%]
 
 === BlackMetal
 
-image::abstract/BlackMetal.jpg[scaledwidth=50%]
+image::abstract/preview_BlackMetal.jpg[scaledwidth=50%]
 
 === BlueGradient
 
-image::abstract/BlueGradient.jpg[scaledwidth=50%]
+image::abstract/preview_BlueGradient.jpg[scaledwidth=50%]
 
 === BluePinkGradient
 
-image::abstract/BluePinkGradient.jpg[scaledwidth=50%]
+image::abstract/preview_BluePinkGradient.jpg[scaledwidth=50%]
 
 === BongoCat
 
-image::abstract/BongoCat.png[scaledwidth=50%]
+image::abstract/preview_BongoCat.png[scaledwidth=50%]
 
 === ChineseCaligraphy
 
-image::abstract/ChineseCaligraphy.jpg[scaledwidth=50%]
+image::abstract/preview_ChineseCaligraphy.jpg[scaledwidth=50%]
 
 === ColorfulFlowers
 
-image::abstract/ColorfulFlowers.jpg[scaledwidth=50%]
+image::abstract/preview_ColorfulFlowers.jpg[scaledwidth=50%]
 
 === CustomKeyboard
 
-image::abstract/CustomKeyboard.png[scaledwidth=50%]
+image::abstract/preview_CustomKeyboard.png[scaledwidth=50%]
 
 === Dots
 
-image::abstract/Dots.jpg[scaledwidth=50%]
+image::abstract/preview_Dots.jpg[scaledwidth=50%]
 
 === GreenFluid
 
-image::abstract/GreenFluid.png[scaledwidth=50%]
+image::abstract/preview_GreenFluid.png[scaledwidth=50%]
 
 === Hecker
 
-image::abstract/Hecker.jpg[scaledwidth=50%]
+image::abstract/preview_Hecker.jpg[scaledwidth=50%]
 
 === LightBulbs
 
-image::abstract/LightBulbs.jpg[scaledwidth=50%]
+image::abstract/preview_LightBulbs.jpg[scaledwidth=50%]
 
 === OrangeCubes
 
-image::abstract/OrangeCubes.png[scaledwidth=50%]
+image::abstract/preview_OrangeCubes.png[scaledwidth=50%]
 
 === PlantCell
 
-image::abstract/PlantCell.jpg[scaledwidth=50%]
+image::abstract/preview_PlantCell.jpg[scaledwidth=50%]
 
 === PokePattern
 
-image::abstract/PokePattern.png[scaledwidth=50%]
+image::abstract/preview_PokePattern.png[scaledwidth=50%]
 
 === PurpleFluid
 
-image::abstract/PurpleFluid.png[scaledwidth=50%]
+image::abstract/preview_PurpleFluid.png[scaledwidth=50%]
 
 === WhiteKitties
 
-image::abstract/WhiteKitties.jpg[scaledwidth=50%]
+image::abstract/preview_WhiteKitties.jpg[scaledwidth=50%]
 
 === Woodman
 
-image::abstract/Woodman.jpg[scaledwidth=50%]
+image::abstract/preview_Woodman.jpg[scaledwidth=50%]
+
+=== pre_AbstractMountains
+
+image::abstract/preview_pre_AbstractMountains.png[scaledwidth=50%]
+
+=== pre_CustomKeyboard
+
+image::abstract/preview_pre_CustomKeyboard.png[scaledwidth=50%]
+
+=== pre_OrangeCubes
+
+image::abstract/preview_pre_OrangeCubes.png[scaledwidth=50%]
+
+=== pre_PurpleFluid
+
+image::abstract/preview_pre_PurpleFluid.png[scaledwidth=50%]
+
+=== pre_AbstractHyperBeast
+
+image::abstract/preview_pre_AbstractHyperBeast.jpg[scaledwidth=50%]
+
+=== pre_BeigeTriangles
+
+image::abstract/preview_pre_BeigeTriangles.jpg[scaledwidth=50%]
+
+=== pre_BlackMetal
+
+image::abstract/preview_pre_BlackMetal.jpg[scaledwidth=50%]
+
+=== pre_BluePinkGradient
+
+image::abstract/preview_pre_BluePinkGradient.jpg[scaledwidth=50%]
+
+=== pre_ColorfulFlowers
+
+image::abstract/preview_pre_ColorfulFlowers.jpg[scaledwidth=50%]
+
+=== pre_Hecker
+
+image::abstract/preview_pre_Hecker.jpg[scaledwidth=50%]
+
+=== pre_PlantCell
+
+image::abstract/preview_pre_PlantCell.jpg[scaledwidth=50%]
+
+=== pre_Woodman
+
+image::abstract/preview_pre_Woodman.jpg[scaledwidth=50%]
 
 == anime
 
 === AE86Trueno
 
-image::anime/AE86Trueno.jpg[scaledwidth=50%]
+image::anime/preview_AE86Trueno.jpg[scaledwidth=50%]
 
 === AnimeWaiting
 
-image::anime/AnimeWaiting.png[scaledwidth=50%]
+image::anime/preview_AnimeWaiting.png[scaledwidth=50%]
 
 === ClockworkAnime
 
-image::anime/ClockworkAnime.jpg[scaledwidth=50%]
+image::anime/preview_ClockworkAnime.jpg[scaledwidth=50%]
 
 === ClockworkAnimeOG
 
-image::anime/ClockworkAnimeOG.jpg[scaledwidth=50%]
+image::anime/preview_ClockworkAnimeOG.jpg[scaledwidth=50%]
 
 === EvangelionSilly
 
-image::anime/EvangelionSilly.png[scaledwidth=50%]
+image::anime/preview_EvangelionSilly.png[scaledwidth=50%]
 
 === Eyes
 
-image::anime/Eyes.jpg[scaledwidth=50%]
+image::anime/preview_Eyes.jpg[scaledwidth=50%]
 
 === FantasyAnime
 
-image::anime/FantasyAnime.jpg[scaledwidth=50%]
+image::anime/preview_FantasyAnime.jpg[scaledwidth=50%]
 
 === FloatingTrain
 
-image::anime/FloatingTrain.jpg[scaledwidth=50%]
+image::anime/preview_FloatingTrain.jpg[scaledwidth=50%]
 
 === GirlAndCorgi
 
-image::anime/GirlAndCorgi.png[scaledwidth=50%]
+image::anime/preview_GirlAndCorgi.png[scaledwidth=50%]
 
 === InsideMari
 
-image::anime/InsideMari.png[scaledwidth=50%]
+image::anime/preview_InsideMari.png[scaledwidth=50%]
 
 === KobayashiCar
 
-image::anime/KobayashiCar.jpg[scaledwidth=50%]
+image::anime/preview_KobayashiCar.jpg[scaledwidth=50%]
 
 === MangaPIP1
 
-image::anime/MangaPIP1.jpg[scaledwidth=50%]
+image::anime/preview_MangaPIP1.jpg[scaledwidth=50%]
 
 === MangaPIP2
 
-image::anime/MangaPIP2.png[scaledwidth=50%]
+image::anime/preview_MangaPIP2.png[scaledwidth=50%]
 
 === MangaSketch
 
-image::anime/MangaSketch.jpg[scaledwidth=50%]
+image::anime/preview_MangaSketch.jpg[scaledwidth=50%]
 
 === Overpopulation
 
-image::anime/Overpopulation.jpg[scaledwidth=50%]
+image::anime/preview_Overpopulation.jpg[scaledwidth=50%]
 
 === PowerChainsawMan
 
-image::anime/PowerChainsawMan.png[scaledwidth=50%]
+image::anime/preview_PowerChainsawMan.png[scaledwidth=50%]
 
 === PregnantCapacitator
 
-image::anime/PregnantCapacitator.png[scaledwidth=50%]
+image::anime/preview_PregnantCapacitator.png[scaledwidth=50%]
 
 === RainyDay
 
-image::anime/RainyDay.jpg[scaledwidth=50%]
+image::anime/preview_RainyDay.jpg[scaledwidth=50%]
 
 === SmdMaintenance
 
-image::anime/SmdMaintenance.jpg[scaledwidth=50%]
+image::anime/preview_SmdMaintenance.jpg[scaledwidth=50%]
 
 === SmdSenpai
 
-image::anime/SmdSenpai.png[scaledwidth=50%]
+image::anime/preview_SmdSenpai.png[scaledwidth=50%]
 
 === ThornThrone
 
-image::anime/ThornThrone.png[scaledwidth=50%]
+image::anime/preview_ThornThrone.png[scaledwidth=50%]
 
 === UsesKizuPalette
 
-image::anime/UsesKizuPalette.png[scaledwidth=50%]
+image::anime/preview_UsesKizuPalette.png[scaledwidth=50%]
 
 === Waiting2
 
-image::anime/Waiting2.jpg[scaledwidth=50%]
+image::anime/preview_Waiting2.jpg[scaledwidth=50%]
+
+=== pre_AnimeWaiting
+
+image::anime/preview_pre_AnimeWaiting.png[scaledwidth=50%]
+
+=== pre_GirlAndCorgi
+
+image::anime/preview_pre_GirlAndCorgi.png[scaledwidth=50%]
+
+=== pre_MangaPIP2
+
+image::anime/preview_pre_MangaPIP2.png[scaledwidth=50%]
+
+=== pre_PregnantCapacitator
+
+image::anime/preview_pre_PregnantCapacitator.png[scaledwidth=50%]
+
+=== pre_ThornThrone
+
+image::anime/preview_pre_ThornThrone.png[scaledwidth=50%]
+
+=== pre_AE86Trueno
+
+image::anime/preview_pre_AE86Trueno.jpg[scaledwidth=50%]
+
+=== pre_ClockworkAnimeOG
+
+image::anime/preview_pre_ClockworkAnimeOG.jpg[scaledwidth=50%]
+
+=== pre_FantasyAnime
+
+image::anime/preview_pre_FantasyAnime.jpg[scaledwidth=50%]
+
+=== pre_KobayashiCar
+
+image::anime/preview_pre_KobayashiCar.jpg[scaledwidth=50%]
+
+=== pre_MangaSketch
+
+image::anime/preview_pre_MangaSketch.jpg[scaledwidth=50%]
+
+=== pre_RainyDay
+
+image::anime/preview_pre_RainyDay.jpg[scaledwidth=50%]
+
+=== pre_Waiting2
+
+image::anime/preview_pre_Waiting2.jpg[scaledwidth=50%]
 
 == catppuccin
 
 === AbstractMountains
 
-image::catppuccin/AbstractMountains.png[scaledwidth=50%]
+image::catppuccin/preview_AbstractMountains.png[scaledwidth=50%]
 
 === Bass
 
-image::catppuccin/Bass.png[scaledwidth=50%]
+image::catppuccin/preview_Bass.png[scaledwidth=50%]
 
 === BlossomsCatppuccin
 
-image::catppuccin/BlossomsCatppuccin.png[scaledwidth=50%]
+image::catppuccin/preview_BlossomsCatppuccin.png[scaledwidth=50%]
 
 === Flowers
 
-image::catppuccin/Flowers.png[scaledwidth=50%]
+image::catppuccin/preview_Flowers.png[scaledwidth=50%]
 
 === Leaves
 
-image::catppuccin/Leaves.png[scaledwidth=50%]
+image::catppuccin/preview_Leaves.png[scaledwidth=50%]
 
 === MangaPIP2
 
-image::catppuccin/MangaPIP2.png[scaledwidth=50%]
+image::catppuccin/preview_MangaPIP2.png[scaledwidth=50%]
 
 === PixelartCity
 
-image::catppuccin/PixelartCity.png[scaledwidth=50%]
+image::catppuccin/preview_PixelartCity.png[scaledwidth=50%]
 
 === RainyDay
 
-image::catppuccin/RainyDay.jpg[scaledwidth=50%]
+image::catppuccin/preview_RainyDay.jpg[scaledwidth=50%]
+
+=== pre_RainyDay
+
+image::catppuccin/preview_pre_RainyDay.jpg[scaledwidth=50%]
 
 == decay
 
 === Building
 
-image::decay/Building.png[scaledwidth=50%]
+image::decay/preview_Building.png[scaledwidth=50%]
 
 === Cabin
 
-image::decay/Cabin.jpg[scaledwidth=50%]
+image::decay/preview_Cabin.jpg[scaledwidth=50%]
 
 === Campfire
 
-image::decay/Campfire.png[scaledwidth=50%]
+image::decay/preview_Campfire.png[scaledwidth=50%]
 
 === Dots
 
-image::decay/Dots.png[scaledwidth=50%]
+image::decay/preview_Dots.png[scaledwidth=50%]
 
 === PoolBar
 
-image::decay/PoolBar.jpg[scaledwidth=50%]
+image::decay/preview_PoolBar.jpg[scaledwidth=50%]
 
 === SmdMaintenance
 
-image::decay/SmdMaintenance.jpg[scaledwidth=50%]
+image::decay/preview_SmdMaintenance.jpg[scaledwidth=50%]
 
 === Wave
 
-image::decay/Wave.png[scaledwidth=50%]
+image::decay/preview_Wave.png[scaledwidth=50%]
 
 == everblush
 
 === Anger
 
-image::everblush/Anger.png[scaledwidth=50%]
+image::everblush/preview_Anger.png[scaledwidth=50%]
 
 === Arch
 
-image::everblush/Arch.png[scaledwidth=50%]
+image::everblush/preview_Arch.png[scaledwidth=50%]
 
 === BeProductive
 
-image::everblush/BeProductive.png[scaledwidth=50%]
+image::everblush/preview_BeProductive.png[scaledwidth=50%]
 
 === Circles
 
-image::everblush/Circles.png[scaledwidth=50%]
+image::everblush/preview_Circles.png[scaledwidth=50%]
 
 === Dice
 
-image::everblush/Dice.png[scaledwidth=50%]
+image::everblush/preview_Dice.png[scaledwidth=50%]
 
 === EOS
 
-image::everblush/EOS.png[scaledwidth=50%]
+image::everblush/preview_EOS.png[scaledwidth=50%]
 
 === Fedora
 
-image::everblush/Fedora.png[scaledwidth=50%]
+image::everblush/preview_Fedora.png[scaledwidth=50%]
 
 === Generic
 
-image::everblush/Generic.png[scaledwidth=50%]
+image::everblush/preview_Generic.png[scaledwidth=50%]
 
 === Gentoo
 
-image::everblush/Gentoo.png[scaledwidth=50%]
+image::everblush/preview_Gentoo.png[scaledwidth=50%]
 
 === Here
 
-image::everblush/Here.png[scaledwidth=50%]
+image::everblush/preview_Here.png[scaledwidth=50%]
 
 === Manjaro
 
-image::everblush/Manjaro.png[scaledwidth=50%]
+image::everblush/preview_Manjaro.png[scaledwidth=50%]
 
 === Mountain
 
-image::everblush/Mountain.png[scaledwidth=50%]
+image::everblush/preview_Mountain.png[scaledwidth=50%]
 
 === Night
 
-image::everblush/Night.png[scaledwidth=50%]
+image::everblush/preview_Night.png[scaledwidth=50%]
 
 === Pacman
 
-image::everblush/Pacman.png[scaledwidth=50%]
+image::everblush/preview_Pacman.png[scaledwidth=50%]
 
 === Patterns
 
-image::everblush/Patterns.png[scaledwidth=50%]
+image::everblush/preview_Patterns.png[scaledwidth=50%]
 
 === Pixel
 
-image::everblush/Pixel.png[scaledwidth=50%]
+image::everblush/preview_Pixel.png[scaledwidth=50%]
 
 === RHEL
 
-image::everblush/RHEL.png[scaledwidth=50%]
+image::everblush/preview_RHEL.png[scaledwidth=50%]
 
 === Retro
 
-image::everblush/Retro.png[scaledwidth=50%]
+image::everblush/preview_Retro.png[scaledwidth=50%]
 
 === Sharks
 
-image::everblush/Sharks.png[scaledwidth=50%]
+image::everblush/preview_Sharks.png[scaledwidth=50%]
 
 === Void
 
-image::everblush/Void.png[scaledwidth=50%]
+image::everblush/preview_Void.png[scaledwidth=50%]
 
 == everforest
 
 === Colt
 
-image::everforest/Colt.png[scaledwidth=50%]
+image::everforest/preview_Colt.png[scaledwidth=50%]
 
 === Flowers
 
-image::everforest/Flowers.png[scaledwidth=50%]
+image::everforest/preview_Flowers.png[scaledwidth=50%]
 
 === Japan
 
-image::everforest/Japan.png[scaledwidth=50%]
+image::everforest/preview_Japan.png[scaledwidth=50%]
 
 === Rain.jpeg
 
-image::everforest/Rain.jpeg[scaledwidth=50%]
+image::everforest/preview_Rain.jpeg[scaledwidth=50%]
 
 === Road
 
-image::everforest/Road.png[scaledwidth=50%]
+image::everforest/preview_Road.png[scaledwidth=50%]
 
 === Shop
 
-image::everforest/Shop.png[scaledwidth=50%]
+image::everforest/preview_Shop.png[scaledwidth=50%]
 
 === Succulent
 
-image::everforest/Succulent.png[scaledwidth=50%]
+image::everforest/preview_Succulent.png[scaledwidth=50%]
 
 == fantasy
 
 === AnotherFantasyCastle
 
-image::fantasy/AnotherFantasyCastle.jpg[scaledwidth=50%]
+image::fantasy/preview_AnotherFantasyCastle.jpg[scaledwidth=50%]
 
 === AsianPond
 
-image::fantasy/AsianPond.jpg[scaledwidth=50%]
+image::fantasy/preview_AsianPond.jpg[scaledwidth=50%]
 
 === AsianVenice
 
-image::fantasy/AsianVenice.png[scaledwidth=50%]
+image::fantasy/preview_AsianVenice.png[scaledwidth=50%]
 
 === BioshockRapture
 
-image::fantasy/BioshockRapture.jpg[scaledwidth=50%]
+image::fantasy/preview_BioshockRapture.jpg[scaledwidth=50%]
 
 === BloodborneBridge
 
-image::fantasy/BloodborneBridge.jpg[scaledwidth=50%]
+image::fantasy/preview_BloodborneBridge.jpg[scaledwidth=50%]
 
 === CrusaderArmy
 
-image::fantasy/CrusaderArmy.jpg[scaledwidth=50%]
+image::fantasy/preview_CrusaderArmy.jpg[scaledwidth=50%]
 
 === DarkNight
 
-image::fantasy/DarkNight.jpg[scaledwidth=50%]
+image::fantasy/preview_DarkNight.jpg[scaledwidth=50%]
 
 === DarkSoulsIII
 
-image::fantasy/DarkSoulsIII.jpg[scaledwidth=50%]
+image::fantasy/preview_DarkSoulsIII.jpg[scaledwidth=50%]
 
 === ElCheapoTatooine
 
-image::fantasy/ElCheapoTatooine.jpg[scaledwidth=50%]
+image::fantasy/preview_ElCheapoTatooine.jpg[scaledwidth=50%]
 
 === FantasyCastle
 
-image::fantasy/FantasyCastle.png[scaledwidth=50%]
+image::fantasy/preview_FantasyCastle.png[scaledwidth=50%]
 
 === FantasyMural
 
-image::fantasy/FantasyMural.jpg[scaledwidth=50%]
+image::fantasy/preview_FantasyMural.jpg[scaledwidth=50%]
 
 === FantasyRuins
 
-image::fantasy/FantasyRuins.png[scaledwidth=50%]
+image::fantasy/preview_FantasyRuins.png[scaledwidth=50%]
 
 === FlyingFish
 
-image::fantasy/FlyingFish.png[scaledwidth=50%]
+image::fantasy/preview_FlyingFish.png[scaledwidth=50%]
 
 === FlyingIslands
 
-image::fantasy/FlyingIslands.jpg[scaledwidth=50%]
+image::fantasy/preview_FlyingIslands.jpg[scaledwidth=50%]
 
 === FlyingWhale
 
-image::fantasy/FlyingWhale.jpg[scaledwidth=50%]
+image::fantasy/preview_FlyingWhale.jpg[scaledwidth=50%]
 
 === GreatTree
 
-image::fantasy/GreatTree.jpg[scaledwidth=50%]
+image::fantasy/preview_GreatTree.jpg[scaledwidth=50%]
 
 === HandValley
 
-image::fantasy/HandValley.png[scaledwidth=50%]
+image::fantasy/preview_HandValley.png[scaledwidth=50%]
 
 === MedievalLandscape
 
-image::fantasy/MedievalLandscape.jpg[scaledwidth=50%]
+image::fantasy/preview_MedievalLandscape.jpg[scaledwidth=50%]
 
 === NekomataRailwayGirl
 
-image::fantasy/NekomataRailwayGirl.png[scaledwidth=50%]
+image::fantasy/preview_NekomataRailwayGirl.png[scaledwidth=50%]
 
 === NordishCemetery
 
-image::fantasy/NordishCemetery.jpg[scaledwidth=50%]
+image::fantasy/preview_NordishCemetery.jpg[scaledwidth=50%]
 
 === OverSaturatedJapaneseTree
 
-image::fantasy/OverSaturatedJapaneseTree.jpg[scaledwidth=50%]
+image::fantasy/preview_OverSaturatedJapaneseTree.jpg[scaledwidth=50%]
 
 === PutridHollow
 
-image::fantasy/PutridHollow.jpg[scaledwidth=50%]
+image::fantasy/preview_PutridHollow.jpg[scaledwidth=50%]
 
 === SoulOfCinder
 
-image::fantasy/SoulOfCinder.png[scaledwidth=50%]
+image::fantasy/preview_SoulOfCinder.png[scaledwidth=50%]
 
 === UmbrellaCarpet
 
-image::fantasy/UmbrellaCarpet.png[scaledwidth=50%]
+image::fantasy/preview_UmbrellaCarpet.png[scaledwidth=50%]
 
 == flowers
 
 === BigRed
 
-image::flowers/BigRed.jpg[scaledwidth=50%]
+image::flowers/preview_BigRed.jpg[scaledwidth=50%]
 
 === BlossomingTwigs
 
-image::flowers/BlossomingTwigs.jpg[scaledwidth=50%]
+image::flowers/preview_BlossomingTwigs.jpg[scaledwidth=50%]
 
 === BlurredOutFlowers
 
-image::flowers/BlurredOutFlowers.jpg[scaledwidth=50%]
+image::flowers/preview_BlurredOutFlowers.jpg[scaledwidth=50%]
 
 === BlurryFlowers
 
-image::flowers/BlurryFlowers.jpg[scaledwidth=50%]
+image::flowers/preview_BlurryFlowers.jpg[scaledwidth=50%]
 
 === BlurryWarmFlowers
 
-image::flowers/BlurryWarmFlowers.jpg[scaledwidth=50%]
+image::flowers/preview_BlurryWarmFlowers.jpg[scaledwidth=50%]
 
 === BouquetOnOliveGreen
 
-image::flowers/BouquetOnOliveGreen.jpg[scaledwidth=50%]
+image::flowers/preview_BouquetOnOliveGreen.jpg[scaledwidth=50%]
 
 === BranchedBlossoms
 
-image::flowers/BranchedBlossoms.jpg[scaledwidth=50%]
+image::flowers/preview_BranchedBlossoms.jpg[scaledwidth=50%]
 
 === ColorfulBouquet
 
-image::flowers/ColorfulBouquet.jpg[scaledwidth=50%]
+image::flowers/preview_ColorfulBouquet.jpg[scaledwidth=50%]
 
 === ColorfulVariety
 
-image::flowers/ColorfulVariety.jpg[scaledwidth=50%]
+image::flowers/preview_ColorfulVariety.jpg[scaledwidth=50%]
 
 === Daisies
 
-image::flowers/Daisies.jpg[scaledwidth=50%]
+image::flowers/preview_Daisies.jpg[scaledwidth=50%]
 
 === DarkWhiteRose
 
-image::flowers/DarkWhiteRose.jpg[scaledwidth=50%]
+image::flowers/preview_DarkWhiteRose.jpg[scaledwidth=50%]
 
 === FenceFlowers
 
-image::flowers/FenceFlowers.jpg[scaledwidth=50%]
+image::flowers/preview_FenceFlowers.jpg[scaledwidth=50%]
 
 === Flashbang
 
-image::flowers/Flashbang.jpg[scaledwidth=50%]
+image::flowers/preview_Flashbang.jpg[scaledwidth=50%]
 
 === Gray
 
-image::flowers/Gray.jpg[scaledwidth=50%]
+image::flowers/preview_Gray.jpg[scaledwidth=50%]
 
 === LilacBush
 
-image::flowers/LilacBush.jpg[scaledwidth=50%]
+image::flowers/preview_LilacBush.jpg[scaledwidth=50%]
 
 === Matricarias
 
-image::flowers/Matricarias.jpg[scaledwidth=50%]
+image::flowers/preview_Matricarias.jpg[scaledwidth=50%]
 
 === OutdoorWhite
 
-image::flowers/OutdoorWhite.jpg[scaledwidth=50%]
+image::flowers/preview_OutdoorWhite.jpg[scaledwidth=50%]
 
 === OvergrownField
 
-image::flowers/OvergrownField.jpg[scaledwidth=50%]
+image::flowers/preview_OvergrownField.jpg[scaledwidth=50%]
 
 === PeacefulFlower
 
-image::flowers/PeacefulFlower.jpg[scaledwidth=50%]
+image::flowers/preview_PeacefulFlower.jpg[scaledwidth=50%]
 
 === PinkBlossoms
 
-image::flowers/PinkBlossoms.jpg[scaledwidth=50%]
+image::flowers/preview_PinkBlossoms.jpg[scaledwidth=50%]
 
 === PinkFlowers
 
-image::flowers/PinkFlowers.jpg[scaledwidth=50%]
+image::flowers/preview_PinkFlowers.jpg[scaledwidth=50%]
 
 === RoseDark
 
-image::flowers/RoseDark.png[scaledwidth=50%]
+image::flowers/preview_RoseDark.png[scaledwidth=50%]
 
 === Sepia
 
-image::flowers/Sepia.jpg[scaledwidth=50%]
+image::flowers/preview_Sepia.jpg[scaledwidth=50%]
 
 === VanGoghOilPainting
 
-image::flowers/VanGoghOilPainting.jpg[scaledwidth=50%]
+image::flowers/preview_VanGoghOilPainting.jpg[scaledwidth=50%]
 
 === VibrantPink
 
-image::flowers/VibrantPink.jpg[scaledwidth=50%]
+image::flowers/preview_VibrantPink.jpg[scaledwidth=50%]
 
 === WetBud
 
-image::flowers/WetBud.jpg[scaledwidth=50%]
+image::flowers/preview_WetBud.jpg[scaledwidth=50%]
 
 === Wheat
 
-image::flowers/Wheat.jpg[scaledwidth=50%]
+image::flowers/preview_Wheat.jpg[scaledwidth=50%]
 
 === WhiteFlowers
 
-image::flowers/WhiteFlowers.jpg[scaledwidth=50%]
+image::flowers/preview_WhiteFlowers.jpg[scaledwidth=50%]
 
 === WhiteFlowers
 
-image::flowers/WhiteFlowers.png[scaledwidth=50%]
+image::flowers/preview_WhiteFlowers.png[scaledwidth=50%]
 
 === WhiteRose
 
-image::flowers/WhiteRose.png[scaledwidth=50%]
+image::flowers/preview_WhiteRose.png[scaledwidth=50%]
 
 == forest
 
 === BatSwarm
 
-image::forest/BatSwarm.jpg[scaledwidth=50%]
+image::forest/preview_BatSwarm.jpg[scaledwidth=50%]
 
 === BirdsEyeForest
 
-image::forest/BirdsEyeForest.png[scaledwidth=50%]
+image::forest/preview_BirdsEyeForest.png[scaledwidth=50%]
 
 === BlackMetalMadeForest
 
-image::forest/BlackMetalMadeForest.jpg[scaledwidth=50%]
+image::forest/preview_BlackMetalMadeForest.jpg[scaledwidth=50%]
 
 === ChillCabin
 
-image::forest/ChillCabin.png[scaledwidth=50%]
+image::forest/preview_ChillCabin.png[scaledwidth=50%]
 
 === DrippingBranches
 
-image::forest/DrippingBranches.jpg[scaledwidth=50%]
+image::forest/preview_DrippingBranches.jpg[scaledwidth=50%]
 
 === FantasyWoods
 
-image::forest/FantasyWoods.jpg[scaledwidth=50%]
+image::forest/preview_FantasyWoods.jpg[scaledwidth=50%]
 
 === FellTrunk
 
-image::forest/FellTrunk.jpg[scaledwidth=50%]
+image::forest/preview_FellTrunk.jpg[scaledwidth=50%]
 
 === FoggyWoods
 
-image::forest/FoggyWoods.jpg[scaledwidth=50%]
+image::forest/preview_FoggyWoods.jpg[scaledwidth=50%]
 
 === Forest
 
-image::forest/Forest.jpg[scaledwidth=50%]
+image::forest/preview_Forest.jpg[scaledwidth=50%]
 
 === ForestPath
 
-image::forest/ForestPath.jpg[scaledwidth=50%]
+image::forest/preview_ForestPath.jpg[scaledwidth=50%]
 
 === FrozenForest
 
-image::forest/FrozenForest.jpg[scaledwidth=50%]
+image::forest/preview_FrozenForest.jpg[scaledwidth=50%]
 
 === GloomyWoods
 
-image::forest/GloomyWoods.jpg[scaledwidth=50%]
+image::forest/preview_GloomyWoods.jpg[scaledwidth=50%]
 
 === Leaves
 
-image::forest/Leaves.jpg[scaledwidth=50%]
+image::forest/preview_Leaves.jpg[scaledwidth=50%]
 
 === PineForest
 
-image::forest/PineForest.jpg[scaledwidth=50%]
+image::forest/preview_PineForest.jpg[scaledwidth=50%]
 
 === RussianTrees
 
-image::forest/RussianTrees.jpg[scaledwidth=50%]
+image::forest/preview_RussianTrees.jpg[scaledwidth=50%]
 
 === SnowyForest
 
-image::forest/SnowyForest.jpg[scaledwidth=50%]
+image::forest/preview_SnowyForest.jpg[scaledwidth=50%]
 
 === SnowyWoods
 
-image::forest/SnowyWoods.jpg[scaledwidth=50%]
+image::forest/preview_SnowyWoods.jpg[scaledwidth=50%]
 
 === WormsEye
 
-image::forest/WormsEye.jpg[scaledwidth=50%]
+image::forest/preview_WormsEye.jpg[scaledwidth=50%]
 
 == gruvbox
 
 === AsianHills
 
-image::gruvbox/AsianHills.jpg[scaledwidth=50%]
+image::gruvbox/preview_AsianHills.jpg[scaledwidth=50%]
 
 === CyberpunkRooftops
 
-image::gruvbox/CyberpunkRooftops.jpg[scaledwidth=50%]
+image::gruvbox/preview_CyberpunkRooftops.jpg[scaledwidth=50%]
 
 === Forest
 
-image::gruvbox/Forest.png[scaledwidth=50%]
+image::gruvbox/preview_Forest.png[scaledwidth=50%]
 
 === InTown
 
-image::gruvbox/InTown.jpg[scaledwidth=50%]
+image::gruvbox/preview_InTown.jpg[scaledwidth=50%]
 
 === Lines
 
-image::gruvbox/Lines.png[scaledwidth=50%]
+image::gruvbox/preview_Lines.png[scaledwidth=50%]
 
 === LinesDarker
 
-image::gruvbox/LinesDarker.png[scaledwidth=50%]
+image::gruvbox/preview_LinesDarker.png[scaledwidth=50%]
 
 === Platform
 
-image::gruvbox/Platform.jpg[scaledwidth=50%]
+image::gruvbox/preview_Platform.jpg[scaledwidth=50%]
 
 == landscape
 
 === AutumnRoad
 
-image::landscape/AutumnRoad.png[scaledwidth=50%]
+image::landscape/preview_AutumnRoad.png[scaledwidth=50%]
 
 === BigLake
 
-image::landscape/BigLake.png[scaledwidth=50%]
+image::landscape/preview_BigLake.png[scaledwidth=50%]
 
 === BurningCar
 
-image::landscape/BurningCar.jpg[scaledwidth=50%]
+image::landscape/preview_BurningCar.jpg[scaledwidth=50%]
 
 === CloudyMountain
 
-image::landscape/CloudyMountain.jpg[scaledwidth=50%]
+image::landscape/preview_CloudyMountain.jpg[scaledwidth=50%]
 
 === DarkMountains
 
-image::landscape/DarkMountains.jpg[scaledwidth=50%]
+image::landscape/preview_DarkMountains.jpg[scaledwidth=50%]
 
 === FlowingWaterfalls
 
-image::landscape/FlowingWaterfalls.jpg[scaledwidth=50%]
+image::landscape/preview_FlowingWaterfalls.jpg[scaledwidth=50%]
 
 === GrainFieldSunset
 
-image::landscape/GrainFieldSunset.jpg[scaledwidth=50%]
+image::landscape/preview_GrainFieldSunset.jpg[scaledwidth=50%]
 
 === IronBridge
 
-image::landscape/IronBridge.jpg[scaledwidth=50%]
+image::landscape/preview_IronBridge.jpg[scaledwidth=50%]
 
 === JungleMountains
 
-image::landscape/JungleMountains.jpg[scaledwidth=50%]
+image::landscape/preview_JungleMountains.jpg[scaledwidth=50%]
 
 === LilacsPainting
 
-image::landscape/LilacsPainting.jpg[scaledwidth=50%]
+image::landscape/preview_LilacsPainting.jpg[scaledwidth=50%]
 
 === MuricaRocks
 
-image::landscape/MuricaRocks.jpg[scaledwidth=50%]
+image::landscape/preview_MuricaRocks.jpg[scaledwidth=50%]
 
 === PagodaPixelArt
 
-image::landscape/PagodaPixelArt.jpg[scaledwidth=50%]
+image::landscape/preview_PagodaPixelArt.jpg[scaledwidth=50%]
 
 === PoolBar
 
-image::landscape/PoolBar.jpg[scaledwidth=50%]
+image::landscape/preview_PoolBar.jpg[scaledwidth=50%]
 
 === RockyMountains
 
-image::landscape/RockyMountains.jpg[scaledwidth=50%]
+image::landscape/preview_RockyMountains.jpg[scaledwidth=50%]
 
 === SnowyHorizon
 
-image::landscape/SnowyHorizon.jpg[scaledwidth=50%]
+image::landscape/preview_SnowyHorizon.jpg[scaledwidth=50%]
 
 === SnowyMountains
 
-image::landscape/SnowyMountains.jpg[scaledwidth=50%]
+image::landscape/preview_SnowyMountains.jpg[scaledwidth=50%]
 
 === Somewhere
 
-image::landscape/Somewhere.jpg[scaledwidth=50%]
+image::landscape/preview_Somewhere.jpg[scaledwidth=50%]
 
 === WheatField
 
-image::landscape/WheatField.jpg[scaledwidth=50%]
+image::landscape/preview_WheatField.jpg[scaledwidth=50%]
 
 === Windmill
 
-image::landscape/Windmill.jpg[scaledwidth=50%]
+image::landscape/preview_Windmill.jpg[scaledwidth=50%]
 
 === WinterLandscape
 
-image::landscape/WinterLandscape.jpg[scaledwidth=50%]
+image::landscape/preview_WinterLandscape.jpg[scaledwidth=50%]
 
 === WinteryChurch
 
-image::landscape/WinteryChurch.jpg[scaledwidth=50%]
+image::landscape/preview_WinteryChurch.jpg[scaledwidth=50%]
 
 === XPModern
 
-image::landscape/XPModern.jpg[scaledwidth=50%]
+image::landscape/preview_XPModern.jpg[scaledwidth=50%]
 
 === YosemiteLandscape
 
-image::landscape/YosemiteLandscape.jpg[scaledwidth=50%]
+image::landscape/preview_YosemiteLandscape.jpg[scaledwidth=50%]
 
 == paintings
 
 === BattleOfGrunwald
 
-image::paintings/BattleOfGrunwald.jpg[scaledwidth=50%]
+image::paintings/preview_BattleOfGrunwald.jpg[scaledwidth=50%]
 
 === LondonOverview
 
-image::paintings/LondonOverview.jpg[scaledwidth=50%]
+image::paintings/preview_LondonOverview.jpg[scaledwidth=50%]
 
 === SinkingVessel
 
-image::paintings/SinkingVessel.jpg[scaledwidth=50%]
+image::paintings/preview_SinkingVessel.jpg[scaledwidth=50%]
 
 === VenicePainting
 
-image::paintings/VenicePainting.jpg[scaledwidth=50%]
+image::paintings/preview_VenicePainting.jpg[scaledwidth=50%]
 
 == sea
 
 === Beach
 
-image::sea/Beach.jpg[scaledwidth=50%]
+image::sea/preview_Beach.jpg[scaledwidth=50%]
 
 === Coast
 
-image::sea/Coast.jpg[scaledwidth=50%]
+image::sea/preview_Coast.jpg[scaledwidth=50%]
 
 === CoastWaves
 
-image::sea/CoastWaves.jpg[scaledwidth=50%]
+image::sea/preview_CoastWaves.jpg[scaledwidth=50%]
 
 === ComfyWaves
 
-image::sea/ComfyWaves.jpg[scaledwidth=50%]
+image::sea/preview_ComfyWaves.jpg[scaledwidth=50%]
 
 === CozyCoast
 
-image::sea/CozyCoast.png[scaledwidth=50%]
+image::sea/preview_CozyCoast.png[scaledwidth=50%]
 
 === EtherealSea
 
-image::sea/EtherealSea.jpg[scaledwidth=50%]
+image::sea/preview_EtherealSea.jpg[scaledwidth=50%]
 
 === FoamyBeach
 
-image::sea/FoamyBeach.jpg[scaledwidth=50%]
+image::sea/preview_FoamyBeach.jpg[scaledwidth=50%]
 
 === IceOnTheSea
 
-image::sea/IceOnTheSea.jpg[scaledwidth=50%]
+image::sea/preview_IceOnTheSea.jpg[scaledwidth=50%]
 
 === Lighthouse
 
-image::sea/Lighthouse.jpg[scaledwidth=50%]
+image::sea/preview_Lighthouse.jpg[scaledwidth=50%]
 
 === Lighthouse
 
-image::sea/Lighthouse.png[scaledwidth=50%]
+image::sea/preview_Lighthouse.png[scaledwidth=50%]
 
 === MoarBeach
 
-image::sea/MoarBeach.jpg[scaledwidth=50%]
+image::sea/preview_MoarBeach.jpg[scaledwidth=50%]
 
 === OceanFront
 
-image::sea/OceanFront.png[scaledwidth=50%]
+image::sea/preview_OceanFront.png[scaledwidth=50%]
 
 === ProllyGoingToDegirl
 
-image::sea/ProllyGoingToDegirl.png[scaledwidth=50%]
+image::sea/preview_ProllyGoingToDegirl.png[scaledwidth=50%]
 
 === SeaFoam
 
-image::sea/SeaFoam.jpg[scaledwidth=50%]
+image::sea/preview_SeaFoam.jpg[scaledwidth=50%]
 
 === WarmWaves
 
-image::sea/WarmWaves.jpg[scaledwidth=50%]
+image::sea/preview_WarmWaves.jpg[scaledwidth=50%]
 
 === WildWaves
 
-image::sea/WildWaves.jpg[scaledwidth=50%]
+image::sea/preview_WildWaves.jpg[scaledwidth=50%]
 
 === YetAnotherSeaWallpaper
 
-image::sea/YetAnotherSeaWallpaper.jpg[scaledwidth=50%]
+image::sea/preview_YetAnotherSeaWallpaper.jpg[scaledwidth=50%]
 
 == sky
 
 === BrownBuilding
 
-image::sky/BrownBuilding.jpg[scaledwidth=50%]
+image::sky/preview_BrownBuilding.jpg[scaledwidth=50%]
 
 === Clouds
 
-image::sky/Clouds.jpg[scaledwidth=50%]
+image::sky/preview_Clouds.jpg[scaledwidth=50%]
 
 === CloudsCyan
 
-image::sky/CloudsCyan.jpg[scaledwidth=50%]
+image::sky/preview_CloudsCyan.jpg[scaledwidth=50%]
 
 === ColorfulParachute
 
-image::sky/ColorfulParachute.jpg[scaledwidth=50%]
+image::sky/preview_ColorfulParachute.jpg[scaledwidth=50%]
 
 === DegirledAnimeClouds
 
-image::sky/DegirledAnimeClouds.png[scaledwidth=50%]
+image::sky/preview_DegirledAnimeClouds.png[scaledwidth=50%]
 
 === GirlRemoved
 
-image::sky/GirlRemoved.png[scaledwidth=50%]
+image::sky/preview_GirlRemoved.png[scaledwidth=50%]
 
 === GodrayClouds
 
-image::sky/GodrayClouds.jpg[scaledwidth=50%]
+image::sky/preview_GodrayClouds.jpg[scaledwidth=50%]
 
 === GoldenGate
 
-image::sky/GoldenGate.jpg[scaledwidth=50%]
+image::sky/preview_GoldenGate.jpg[scaledwidth=50%]
 
 === GoldenGateLandscape
 
-image::sky/GoldenGateLandscape.jpg[scaledwidth=50%]
+image::sky/preview_GoldenGateLandscape.jpg[scaledwidth=50%]
 
 === LonePlane
 
-image::sky/LonePlane.jpg[scaledwidth=50%]
+image::sky/preview_LonePlane.jpg[scaledwidth=50%]
 
 === MinimalistBuilding
 
-image::sky/MinimalistBuilding.jpg[scaledwidth=50%]
+image::sky/preview_MinimalistBuilding.jpg[scaledwidth=50%]
 
 === ModernArchitecture
 
-image::sky/ModernArchitecture.jpg[scaledwidth=50%]
+image::sky/preview_ModernArchitecture.jpg[scaledwidth=50%]
 
 === Nebula
 
-image::sky/Nebula.jpg[scaledwidth=50%]
+image::sky/preview_Nebula.jpg[scaledwidth=50%]
 
 === NightSky
 
-image::sky/NightSky.jpg[scaledwidth=50%]
+image::sky/preview_NightSky.jpg[scaledwidth=50%]
 
 === PalmLeaves
 
-image::sky/PalmLeaves.jpg[scaledwidth=50%]
+image::sky/preview_PalmLeaves.jpg[scaledwidth=50%]
 
 === UrbanSky
 
-image::sky/UrbanSky.jpg[scaledwidth=50%]
+image::sky/preview_UrbanSky.jpg[scaledwidth=50%]
 
 === WeatherStation
 
-image::sky/WeatherStation.jpg[scaledwidth=50%]
+image::sky/preview_WeatherStation.jpg[scaledwidth=50%]
 
 === WormsEyeUrban
 
-image::sky/WormsEyeUrban.jpg[scaledwidth=50%]
+image::sky/preview_WormsEyeUrban.jpg[scaledwidth=50%]
 
 == solarized
 
 === ColorfulBall
 
-image::solarized/ColorfulBall.png[scaledwidth=50%]
+image::solarized/preview_ColorfulBall.png[scaledwidth=50%]
 
 === DotFlurry
 
-image::solarized/DotFlurry.png[scaledwidth=50%]
+image::solarized/preview_DotFlurry.png[scaledwidth=50%]
 
 === Elements
 
-image::solarized/Elements.jpg[scaledwidth=50%]
+image::solarized/preview_Elements.jpg[scaledwidth=50%]
 
 === Leaves
 
-image::solarized/Leaves.png[scaledwidth=50%]
+image::solarized/preview_Leaves.png[scaledwidth=50%]
 
 === NightCitySky
 
-image::solarized/NightCitySky.jpg[scaledwidth=50%]
+image::solarized/preview_NightCitySky.jpg[scaledwidth=50%]
 
 === Owl
 
-image::solarized/Owl.jpg[scaledwidth=50%]
+image::solarized/preview_Owl.jpg[scaledwidth=50%]
 
 === SolarizedDots
 
-image::solarized/SolarizedDots.png[scaledwidth=50%]
+image::solarized/preview_SolarizedDots.png[scaledwidth=50%]
 
 === SolarizedFilesystem
 
-image::solarized/SolarizedFilesystem.png[scaledwidth=50%]
+image::solarized/preview_SolarizedFilesystem.png[scaledwidth=50%]
 
 == tokyonight
 
 === AnimeWaiting
 
-image::tokyonight/AnimeWaiting.png[scaledwidth=50%]
+image::tokyonight/preview_AnimeWaiting.png[scaledwidth=50%]
 
 === AnimeWaiting2
 
-image::tokyonight/AnimeWaiting2.jpg[scaledwidth=50%]
+image::tokyonight/preview_AnimeWaiting2.jpg[scaledwidth=50%]
 
 === ChainsawMan
 
-image::tokyonight/ChainsawMan.png[scaledwidth=50%]
+image::tokyonight/preview_ChainsawMan.png[scaledwidth=50%]
 
 === PixelartCity
 
-image::tokyonight/PixelartCity.png[scaledwidth=50%]
+image::tokyonight/preview_PixelartCity.png[scaledwidth=50%]
 
 === Simple
 
-image::tokyonight/Simple.png[scaledwidth=50%]
+image::tokyonight/preview_Simple.png[scaledwidth=50%]
 
 === Space
 
-image::tokyonight/Space.png[scaledwidth=50%]
+image::tokyonight/preview_Space.png[scaledwidth=50%]
 
 === ToyCity
 
-image::tokyonight/ToyCity.jpg[scaledwidth=50%]
+image::tokyonight/preview_ToyCity.jpg[scaledwidth=50%]
 
 === WithTheGirl:chad:
 
-image::tokyonight/WithTheGirl:chad:.png[scaledwidth=50%]
+image::tokyonight/preview_WithTheGirl:chad:.png[scaledwidth=50%]
 
 == urban
 
 === AirplaneCat
 
-image::urban/AirplaneCat.jpg[scaledwidth=50%]
+image::urban/preview_AirplaneCat.jpg[scaledwidth=50%]
 
 === AnimeDocks
 
-image::urban/AnimeDocks.jpg[scaledwidth=50%]
+image::urban/preview_AnimeDocks.jpg[scaledwidth=50%]
 
 === AnimeRailway
 
-image::urban/AnimeRailway.png[scaledwidth=50%]
+image::urban/preview_AnimeRailway.png[scaledwidth=50%]
 
 === ApartmentComplex
 
-image::urban/ApartmentComplex.jpg[scaledwidth=50%]
+image::urban/preview_ApartmentComplex.jpg[scaledwidth=50%]
 
 === AsianBuildings
 
-image::urban/AsianBuildings.jpg[scaledwidth=50%]
+image::urban/preview_AsianBuildings.jpg[scaledwidth=50%]
 
 === AutumnLada
 
-image::urban/AutumnLada.jpg[scaledwidth=50%]
+image::urban/preview_AutumnLada.jpg[scaledwidth=50%]
 
 === BackalleyDoor
 
-image::urban/BackalleyDoor.jpg[scaledwidth=50%]
+image::urban/preview_BackalleyDoor.jpg[scaledwidth=50%]
 
 === BlockOfFlats
 
-image::urban/BlockOfFlats.jpg[scaledwidth=50%]
+image::urban/preview_BlockOfFlats.jpg[scaledwidth=50%]
 
 === Burocracy:(
 
-image::urban/Burocracy:(.jpg[scaledwidth=50%]
+image::urban/preview_Burocracy:(.jpg[scaledwidth=50%]
 
 === CatLooksSus
 
-image::urban/CatLooksSus.jpg[scaledwidth=50%]
+image::urban/preview_CatLooksSus.jpg[scaledwidth=50%]
 
 === CemeteryStreet
 
-image::urban/CemeteryStreet.jpg[scaledwidth=50%]
+image::urban/preview_CemeteryStreet.jpg[scaledwidth=50%]
 
 === CentralPark
 
-image::urban/CentralPark.jpg[scaledwidth=50%]
+image::urban/preview_CentralPark.jpg[scaledwidth=50%]
 
 === ChicagoRailway
 
-image::urban/ChicagoRailway.jpg[scaledwidth=50%]
+image::urban/preview_ChicagoRailway.jpg[scaledwidth=50%]
 
 === ChinesePixelSquare
 
-image::urban/ChinesePixelSquare.png[scaledwidth=50%]
+image::urban/preview_ChinesePixelSquare.png[scaledwidth=50%]
 
 === ColorfulHouse
 
-image::urban/ColorfulHouse.png[scaledwidth=50%]
+image::urban/preview_ColorfulHouse.png[scaledwidth=50%]
 
 === CozyLamps
 
-image::urban/CozyLamps.jpg[scaledwidth=50%]
+image::urban/preview_CozyLamps.jpg[scaledwidth=50%]
 
 === CyberpunkConstruction
 
-image::urban/CyberpunkConstruction.jpg[scaledwidth=50%]
+image::urban/preview_CyberpunkConstruction.jpg[scaledwidth=50%]
 
 === CyberpunkPixelart
 
-image::urban/CyberpunkPixelart.png[scaledwidth=50%]
+image::urban/preview_CyberpunkPixelart.png[scaledwidth=50%]
 
 === CyberpunkPixelartBlue
 
-image::urban/CyberpunkPixelartBlue.png[scaledwidth=50%]
+image::urban/preview_CyberpunkPixelartBlue.png[scaledwidth=50%]
 
 === FrenchRevolution
 
-image::urban/FrenchRevolution.jpg[scaledwidth=50%]
+image::urban/preview_FrenchRevolution.jpg[scaledwidth=50%]
 
 === GermanHouses
 
-image::urban/GermanHouses.jpg[scaledwidth=50%]
+image::urban/preview_GermanHouses.jpg[scaledwidth=50%]
 
 === JapaneseStreetView
 
-image::urban/JapaneseStreetView.jpg[scaledwidth=50%]
+image::urban/preview_JapaneseStreetView.jpg[scaledwidth=50%]
 
 === Kitty:3
 
-image::urban/Kitty:3.jpg[scaledwidth=50%]
+image::urban/preview_Kitty:3.jpg[scaledwidth=50%]
 
 === Laamp
 
-image::urban/Laamp.jpg[scaledwidth=50%]
+image::urban/preview_Laamp.jpg[scaledwidth=50%]
 
 === LamppostReflection
 
-image::urban/LamppostReflection.jpg[scaledwidth=50%]
+image::urban/preview_LamppostReflection.jpg[scaledwidth=50%]
 
 === Lampposts
 
-image::urban/Lampposts.jpg[scaledwidth=50%]
+image::urban/preview_Lampposts.jpg[scaledwidth=50%]
 
 === Moscow
 
-image::urban/Moscow.jpg[scaledwidth=50%]
+image::urban/preview_Moscow.jpg[scaledwidth=50%]
 
 === NewYork
 
-image::urban/NewYork.jpg[scaledwidth=50%]
+image::urban/preview_NewYork.jpg[scaledwidth=50%]
 
 === NightPark
 
-image::urban/NightPark.jpg[scaledwidth=50%]
+image::urban/preview_NightPark.jpg[scaledwidth=50%]
 
 === NighttimeLandscape
 
-image::urban/NighttimeLandscape.png[scaledwidth=50%]
+image::urban/preview_NighttimeLandscape.png[scaledwidth=50%]
 
 === NighttimeTrainTracks
 
-image::urban/NighttimeTrainTracks.png[scaledwidth=50%]
+image::urban/preview_NighttimeTrainTracks.png[scaledwidth=50%]
 
 === OldTown
 
-image::urban/OldTown.jpg[scaledwidth=50%]
+image::urban/preview_OldTown.jpg[scaledwidth=50%]
 
 === Paris
 
-image::urban/Paris.jpg[scaledwidth=50%]
+image::urban/preview_Paris.jpg[scaledwidth=50%]
 
 === PixelBuildings
 
-image::urban/PixelBuildings.jpg[scaledwidth=50%]
+image::urban/preview_PixelBuildings.jpg[scaledwidth=50%]
 
 === PixelBuildingsNord
 
-image::urban/PixelBuildingsNord.png[scaledwidth=50%]
+image::urban/preview_PixelBuildingsNord.png[scaledwidth=50%]
 
 === StreetView
 
-image::urban/StreetView.jpg[scaledwidth=50%]
+image::urban/preview_StreetView.jpg[scaledwidth=50%]
 
 === Streetlights
 
-image::urban/Streetlights.jpg[scaledwidth=50%]
+image::urban/preview_Streetlights.jpg[scaledwidth=50%]
 
 === ThroughFence
 
-image::urban/ThroughFence.jpg[scaledwidth=50%]
+image::urban/preview_ThroughFence.jpg[scaledwidth=50%]
 
 === Toronto
 
-image::urban/Toronto.jpg[scaledwidth=50%]
+image::urban/preview_Toronto.jpg[scaledwidth=50%]
 
 === UrbanRiver
 
-image::urban/UrbanRiver.jpg[scaledwidth=50%]
+image::urban/preview_UrbanRiver.jpg[scaledwidth=50%]
 
 === WarmCityscape
 
-image::urban/WarmCityscape.png[scaledwidth=50%]
+image::urban/preview_WarmCityscape.png[scaledwidth=50%]
 
 === WetWinterRoad
 
-image::urban/WetWinterRoad.jpg[scaledwidth=50%]
+image::urban/preview_WetWinterRoad.jpg[scaledwidth=50%]
 
 === WhiteSkyscraper
 
-image::urban/WhiteSkyscraper.jpg[scaledwidth=50%]
+image::urban/preview_WhiteSkyscraper.jpg[scaledwidth=50%]
 
 === ZucholdArchitecture
 
-image::urban/ZucholdArchitecture.jpg[scaledwidth=50%]
+image::urban/preview_ZucholdArchitecture.jpg[scaledwidth=50%]
+
+=== pre_ZucholdArchitecture
+
+image::urban/preview_pre_ZucholdArchitecture.jpg[scaledwidth=50%]
