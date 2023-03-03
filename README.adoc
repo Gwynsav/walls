@@ -3,610 +3,1186 @@ Personal collection of wallpapers.
 
 == abstract
 
-=== abstract/AbstractHyperBeast.jpg
+=== AbstractHyperBeast
 
-=== abstract/AbstractMountains.png
+image::abstract/AbstractHyperBeast.jpg[scaledwidth=50%]
 
-=== abstract/AbstractSwirls.jpg
+=== AbstractMountains
 
-=== abstract/BeigeTriangles.jpg
+image::abstract/AbstractMountains.png[scaledwidth=50%]
 
-=== abstract/BlackMagma.jpg
+=== AbstractSwirls
 
-=== abstract/BlackMetal.jpg
+image::abstract/AbstractSwirls.jpg[scaledwidth=50%]
 
-=== abstract/BlueGradient.jpg
+=== BeigeTriangles
 
-=== abstract/BluePinkGradient.jpg
+image::abstract/BeigeTriangles.jpg[scaledwidth=50%]
 
-=== abstract/BongoCat.png
+=== BlackMagma
 
-=== abstract/ChineseCaligraphy.jpg
+image::abstract/BlackMagma.jpg[scaledwidth=50%]
 
-=== abstract/ColorfulFlowers.jpg
+=== BlackMetal
 
-=== abstract/CustomKeyboard.png
+image::abstract/BlackMetal.jpg[scaledwidth=50%]
 
-=== abstract/Dots.jpg
+=== BlueGradient
 
-=== abstract/GreenFluid.png
+image::abstract/BlueGradient.jpg[scaledwidth=50%]
 
-=== abstract/Hecker.jpg
+=== BluePinkGradient
 
-=== abstract/LightBulbs.jpg
+image::abstract/BluePinkGradient.jpg[scaledwidth=50%]
 
-=== abstract/OrangeCubes.png
+=== BongoCat
 
-=== abstract/PlantCell.jpg
+image::abstract/BongoCat.png[scaledwidth=50%]
 
-=== abstract/PokePattern.png
+=== ChineseCaligraphy
 
-=== abstract/PurpleFluid.png
+image::abstract/ChineseCaligraphy.jpg[scaledwidth=50%]
 
-=== abstract/WhiteKitties.jpg
+=== ColorfulFlowers
 
-=== abstract/Woodman.jpg
+image::abstract/ColorfulFlowers.jpg[scaledwidth=50%]
+
+=== CustomKeyboard
+
+image::abstract/CustomKeyboard.png[scaledwidth=50%]
+
+=== Dots
+
+image::abstract/Dots.jpg[scaledwidth=50%]
+
+=== GreenFluid
+
+image::abstract/GreenFluid.png[scaledwidth=50%]
+
+=== Hecker
+
+image::abstract/Hecker.jpg[scaledwidth=50%]
+
+=== LightBulbs
+
+image::abstract/LightBulbs.jpg[scaledwidth=50%]
+
+=== OrangeCubes
+
+image::abstract/OrangeCubes.png[scaledwidth=50%]
+
+=== PlantCell
+
+image::abstract/PlantCell.jpg[scaledwidth=50%]
+
+=== PokePattern
+
+image::abstract/PokePattern.png[scaledwidth=50%]
+
+=== PurpleFluid
+
+image::abstract/PurpleFluid.png[scaledwidth=50%]
+
+=== WhiteKitties
+
+image::abstract/WhiteKitties.jpg[scaledwidth=50%]
+
+=== Woodman
+
+image::abstract/Woodman.jpg[scaledwidth=50%]
 
 == anime
 
-=== anime/AE86Trueno.jpg
+=== AE86Trueno
 
-=== anime/AnimeWaiting.png
+image::anime/AE86Trueno.jpg[scaledwidth=50%]
 
-=== anime/ClockworkAnime.jpg
+=== AnimeWaiting
 
-=== anime/ClockworkAnimeOG.jpg
+image::anime/AnimeWaiting.png[scaledwidth=50%]
 
-=== anime/EvangelionSilly.png
+=== ClockworkAnime
 
-=== anime/Eyes.jpg
+image::anime/ClockworkAnime.jpg[scaledwidth=50%]
 
-=== anime/FantasyAnime.jpg
+=== ClockworkAnimeOG
 
-=== anime/FloatingTrain.jpg
+image::anime/ClockworkAnimeOG.jpg[scaledwidth=50%]
 
-=== anime/GirlAndCorgi.png
+=== EvangelionSilly
 
-=== anime/InsideMari.png
+image::anime/EvangelionSilly.png[scaledwidth=50%]
 
-=== anime/KobayashiCar.jpg
+=== Eyes
 
-=== anime/MangaPIP1.jpg
+image::anime/Eyes.jpg[scaledwidth=50%]
 
-=== anime/MangaPIP2.png
+=== FantasyAnime
 
-=== anime/MangaSketch.jpg
+image::anime/FantasyAnime.jpg[scaledwidth=50%]
 
-=== anime/Overpopulation.jpg
+=== FloatingTrain
 
-=== anime/PowerChainsawMan.png
+image::anime/FloatingTrain.jpg[scaledwidth=50%]
 
-=== anime/PregnantCapacitator.png
+=== GirlAndCorgi
 
-=== anime/RainyDay.jpg
+image::anime/GirlAndCorgi.png[scaledwidth=50%]
 
-=== anime/SmdMaintenance.jpg
+=== InsideMari
 
-=== anime/SmdSenpai.png
+image::anime/InsideMari.png[scaledwidth=50%]
 
-=== anime/ThornThrone.png
+=== KobayashiCar
 
-=== anime/UsesKizuPalette.png
+image::anime/KobayashiCar.jpg[scaledwidth=50%]
 
-=== anime/Waiting2.jpg
+=== MangaPIP1
+
+image::anime/MangaPIP1.jpg[scaledwidth=50%]
+
+=== MangaPIP2
+
+image::anime/MangaPIP2.png[scaledwidth=50%]
+
+=== MangaSketch
+
+image::anime/MangaSketch.jpg[scaledwidth=50%]
+
+=== Overpopulation
+
+image::anime/Overpopulation.jpg[scaledwidth=50%]
+
+=== PowerChainsawMan
+
+image::anime/PowerChainsawMan.png[scaledwidth=50%]
+
+=== PregnantCapacitator
+
+image::anime/PregnantCapacitator.png[scaledwidth=50%]
+
+=== RainyDay
+
+image::anime/RainyDay.jpg[scaledwidth=50%]
+
+=== SmdMaintenance
+
+image::anime/SmdMaintenance.jpg[scaledwidth=50%]
+
+=== SmdSenpai
+
+image::anime/SmdSenpai.png[scaledwidth=50%]
+
+=== ThornThrone
+
+image::anime/ThornThrone.png[scaledwidth=50%]
+
+=== UsesKizuPalette
+
+image::anime/UsesKizuPalette.png[scaledwidth=50%]
+
+=== Waiting2
+
+image::anime/Waiting2.jpg[scaledwidth=50%]
 
 == catppuccin
 
-=== catppuccin/AbstractMountains.png
+=== AbstractMountains
 
-=== catppuccin/Bass.png
+image::catppuccin/AbstractMountains.png[scaledwidth=50%]
 
-=== catppuccin/BlossomsCatppuccin.png
+=== Bass
 
-=== catppuccin/Flowers.png
+image::catppuccin/Bass.png[scaledwidth=50%]
 
-=== catppuccin/Leaves.png
+=== BlossomsCatppuccin
 
-=== catppuccin/MangaPIP2.png
+image::catppuccin/BlossomsCatppuccin.png[scaledwidth=50%]
 
-=== catppuccin/PixelartCity.png
+=== Flowers
 
-=== catppuccin/RainyDay.jpg
+image::catppuccin/Flowers.png[scaledwidth=50%]
+
+=== Leaves
+
+image::catppuccin/Leaves.png[scaledwidth=50%]
+
+=== MangaPIP2
+
+image::catppuccin/MangaPIP2.png[scaledwidth=50%]
+
+=== PixelartCity
+
+image::catppuccin/PixelartCity.png[scaledwidth=50%]
+
+=== RainyDay
+
+image::catppuccin/RainyDay.jpg[scaledwidth=50%]
 
 == decay
 
-=== decay/Building.png
+=== Building
 
-=== decay/Cabin.jpg
+image::decay/Building.png[scaledwidth=50%]
 
-=== decay/Campfire.png
+=== Cabin
 
-=== decay/Dots.png
+image::decay/Cabin.jpg[scaledwidth=50%]
 
-=== decay/PoolBar.jpg
+=== Campfire
 
-=== decay/SmdMaintenance.jpg
+image::decay/Campfire.png[scaledwidth=50%]
 
-=== decay/Wave.png
+=== Dots
+
+image::decay/Dots.png[scaledwidth=50%]
+
+=== PoolBar
+
+image::decay/PoolBar.jpg[scaledwidth=50%]
+
+=== SmdMaintenance
+
+image::decay/SmdMaintenance.jpg[scaledwidth=50%]
+
+=== Wave
+
+image::decay/Wave.png[scaledwidth=50%]
 
 == everblush
 
-=== everblush/Anger.png
+=== Anger
 
-=== everblush/Arch.png
+image::everblush/Anger.png[scaledwidth=50%]
 
-=== everblush/BeProductive.png
+=== Arch
 
-=== everblush/Circles.png
+image::everblush/Arch.png[scaledwidth=50%]
 
-=== everblush/Dice.png
+=== BeProductive
 
-=== everblush/EOS.png
+image::everblush/BeProductive.png[scaledwidth=50%]
 
-=== everblush/Fedora.png
+=== Circles
 
-=== everblush/Generic.png
+image::everblush/Circles.png[scaledwidth=50%]
 
-=== everblush/Gentoo.png
+=== Dice
 
-=== everblush/Here.png
+image::everblush/Dice.png[scaledwidth=50%]
 
-=== everblush/Manjaro.png
+=== EOS
 
-=== everblush/Mountain.png
+image::everblush/EOS.png[scaledwidth=50%]
 
-=== everblush/Night.png
+=== Fedora
 
-=== everblush/Pacman.png
+image::everblush/Fedora.png[scaledwidth=50%]
 
-=== everblush/Patterns.png
+=== Generic
 
-=== everblush/Pixel.png
+image::everblush/Generic.png[scaledwidth=50%]
 
-=== everblush/RHEL.png
+=== Gentoo
 
-=== everblush/Retro.png
+image::everblush/Gentoo.png[scaledwidth=50%]
 
-=== everblush/Sharks.png
+=== Here
 
-=== everblush/Void.png
+image::everblush/Here.png[scaledwidth=50%]
+
+=== Manjaro
+
+image::everblush/Manjaro.png[scaledwidth=50%]
+
+=== Mountain
+
+image::everblush/Mountain.png[scaledwidth=50%]
+
+=== Night
+
+image::everblush/Night.png[scaledwidth=50%]
+
+=== Pacman
+
+image::everblush/Pacman.png[scaledwidth=50%]
+
+=== Patterns
+
+image::everblush/Patterns.png[scaledwidth=50%]
+
+=== Pixel
+
+image::everblush/Pixel.png[scaledwidth=50%]
+
+=== RHEL
+
+image::everblush/RHEL.png[scaledwidth=50%]
+
+=== Retro
+
+image::everblush/Retro.png[scaledwidth=50%]
+
+=== Sharks
+
+image::everblush/Sharks.png[scaledwidth=50%]
+
+=== Void
+
+image::everblush/Void.png[scaledwidth=50%]
 
 == everforest
 
-=== everforest/Colt.png
+=== Colt
 
-=== everforest/Flowers.png
+image::everforest/Colt.png[scaledwidth=50%]
 
-=== everforest/Japan.png
+=== Flowers
 
-=== everforest/Rain.jpeg
+image::everforest/Flowers.png[scaledwidth=50%]
 
-=== everforest/Road.png
+=== Japan
 
-=== everforest/Shop.png
+image::everforest/Japan.png[scaledwidth=50%]
 
-=== everforest/Succulent.png
+=== Rain.jpeg
+
+image::everforest/Rain.jpeg[scaledwidth=50%]
+
+=== Road
+
+image::everforest/Road.png[scaledwidth=50%]
+
+=== Shop
+
+image::everforest/Shop.png[scaledwidth=50%]
+
+=== Succulent
+
+image::everforest/Succulent.png[scaledwidth=50%]
 
 == fantasy
 
-=== fantasy/AnotherFantasyCastle.jpg
+=== AnotherFantasyCastle
 
-=== fantasy/AsianPond.jpg
+image::fantasy/AnotherFantasyCastle.jpg[scaledwidth=50%]
 
-=== fantasy/AsianVenice.png
+=== AsianPond
 
-=== fantasy/BioshockRapture.jpg
+image::fantasy/AsianPond.jpg[scaledwidth=50%]
 
-=== fantasy/BloodborneBridge.jpg
+=== AsianVenice
 
-=== fantasy/CrusaderArmy.jpg
+image::fantasy/AsianVenice.png[scaledwidth=50%]
 
-=== fantasy/DarkNight.jpg
+=== BioshockRapture
 
-=== fantasy/DarkSoulsIII.jpg
+image::fantasy/BioshockRapture.jpg[scaledwidth=50%]
 
-=== fantasy/ElCheapoTatooine.jpg
+=== BloodborneBridge
 
-=== fantasy/FantasyCastle.png
+image::fantasy/BloodborneBridge.jpg[scaledwidth=50%]
 
-=== fantasy/FantasyMural.jpg
+=== CrusaderArmy
 
-=== fantasy/FantasyRuins.png
+image::fantasy/CrusaderArmy.jpg[scaledwidth=50%]
 
-=== fantasy/FlyingFish.png
+=== DarkNight
 
-=== fantasy/FlyingIslands.jpg
+image::fantasy/DarkNight.jpg[scaledwidth=50%]
 
-=== fantasy/FlyingWhale.jpg
+=== DarkSoulsIII
 
-=== fantasy/GreatTree.jpg
+image::fantasy/DarkSoulsIII.jpg[scaledwidth=50%]
 
-=== fantasy/HandValley.png
+=== ElCheapoTatooine
 
-=== fantasy/MedievalLandscape.jpg
+image::fantasy/ElCheapoTatooine.jpg[scaledwidth=50%]
 
-=== fantasy/NekomataRailwayGirl.png
+=== FantasyCastle
 
-=== fantasy/NordishCemetery.jpg
+image::fantasy/FantasyCastle.png[scaledwidth=50%]
 
-=== fantasy/OverSaturatedJapaneseTree.jpg
+=== FantasyMural
 
-=== fantasy/PutridHollow.jpg
+image::fantasy/FantasyMural.jpg[scaledwidth=50%]
 
-=== fantasy/SoulOfCinder.png
+=== FantasyRuins
 
-=== fantasy/UmbrellaCarpet.png
+image::fantasy/FantasyRuins.png[scaledwidth=50%]
+
+=== FlyingFish
+
+image::fantasy/FlyingFish.png[scaledwidth=50%]
+
+=== FlyingIslands
+
+image::fantasy/FlyingIslands.jpg[scaledwidth=50%]
+
+=== FlyingWhale
+
+image::fantasy/FlyingWhale.jpg[scaledwidth=50%]
+
+=== GreatTree
+
+image::fantasy/GreatTree.jpg[scaledwidth=50%]
+
+=== HandValley
+
+image::fantasy/HandValley.png[scaledwidth=50%]
+
+=== MedievalLandscape
+
+image::fantasy/MedievalLandscape.jpg[scaledwidth=50%]
+
+=== NekomataRailwayGirl
+
+image::fantasy/NekomataRailwayGirl.png[scaledwidth=50%]
+
+=== NordishCemetery
+
+image::fantasy/NordishCemetery.jpg[scaledwidth=50%]
+
+=== OverSaturatedJapaneseTree
+
+image::fantasy/OverSaturatedJapaneseTree.jpg[scaledwidth=50%]
+
+=== PutridHollow
+
+image::fantasy/PutridHollow.jpg[scaledwidth=50%]
+
+=== SoulOfCinder
+
+image::fantasy/SoulOfCinder.png[scaledwidth=50%]
+
+=== UmbrellaCarpet
+
+image::fantasy/UmbrellaCarpet.png[scaledwidth=50%]
 
 == flowers
 
-=== flowers/BigRed.jpg
+=== BigRed
 
-=== flowers/BlossomingTwigs.jpg
+image::flowers/BigRed.jpg[scaledwidth=50%]
 
-=== flowers/BlurredOutFlowers.jpg
+=== BlossomingTwigs
 
-=== flowers/BlurryFlowers.jpg
+image::flowers/BlossomingTwigs.jpg[scaledwidth=50%]
 
-=== flowers/BlurryWarmFlowers.jpg
+=== BlurredOutFlowers
 
-=== flowers/BouquetOnOliveGreen.jpg
+image::flowers/BlurredOutFlowers.jpg[scaledwidth=50%]
 
-=== flowers/BranchedBlossoms.jpg
+=== BlurryFlowers
 
-=== flowers/ColorfulBouquet.jpg
+image::flowers/BlurryFlowers.jpg[scaledwidth=50%]
 
-=== flowers/ColorfulVariety.jpg
+=== BlurryWarmFlowers
 
-=== flowers/Daisies.jpg
+image::flowers/BlurryWarmFlowers.jpg[scaledwidth=50%]
 
-=== flowers/DarkWhiteRose.jpg
+=== BouquetOnOliveGreen
 
-=== flowers/FenceFlowers.jpg
+image::flowers/BouquetOnOliveGreen.jpg[scaledwidth=50%]
 
-=== flowers/Flashbang.jpg
+=== BranchedBlossoms
 
-=== flowers/Gray.jpg
+image::flowers/BranchedBlossoms.jpg[scaledwidth=50%]
 
-=== flowers/LilacBush.jpg
+=== ColorfulBouquet
 
-=== flowers/Matricarias.jpg
+image::flowers/ColorfulBouquet.jpg[scaledwidth=50%]
 
-=== flowers/OutdoorWhite.jpg
+=== ColorfulVariety
 
-=== flowers/OvergrownField.jpg
+image::flowers/ColorfulVariety.jpg[scaledwidth=50%]
 
-=== flowers/PeacefulFlower.jpg
+=== Daisies
 
-=== flowers/PinkBlossoms.jpg
+image::flowers/Daisies.jpg[scaledwidth=50%]
 
-=== flowers/PinkFlowers.jpg
+=== DarkWhiteRose
 
-=== flowers/RoseDark.png
+image::flowers/DarkWhiteRose.jpg[scaledwidth=50%]
 
-=== flowers/Sepia.jpg
+=== FenceFlowers
 
-=== flowers/VanGoghOilPainting.jpg
+image::flowers/FenceFlowers.jpg[scaledwidth=50%]
 
-=== flowers/VibrantPink.jpg
+=== Flashbang
 
-=== flowers/WetBud.jpg
+image::flowers/Flashbang.jpg[scaledwidth=50%]
 
-=== flowers/Wheat.jpg
+=== Gray
 
-=== flowers/WhiteFlowers.jpg
+image::flowers/Gray.jpg[scaledwidth=50%]
 
-=== flowers/WhiteFlowers.png
+=== LilacBush
 
-=== flowers/WhiteRose.png
+image::flowers/LilacBush.jpg[scaledwidth=50%]
+
+=== Matricarias
+
+image::flowers/Matricarias.jpg[scaledwidth=50%]
+
+=== OutdoorWhite
+
+image::flowers/OutdoorWhite.jpg[scaledwidth=50%]
+
+=== OvergrownField
+
+image::flowers/OvergrownField.jpg[scaledwidth=50%]
+
+=== PeacefulFlower
+
+image::flowers/PeacefulFlower.jpg[scaledwidth=50%]
+
+=== PinkBlossoms
+
+image::flowers/PinkBlossoms.jpg[scaledwidth=50%]
+
+=== PinkFlowers
+
+image::flowers/PinkFlowers.jpg[scaledwidth=50%]
+
+=== RoseDark
+
+image::flowers/RoseDark.png[scaledwidth=50%]
+
+=== Sepia
+
+image::flowers/Sepia.jpg[scaledwidth=50%]
+
+=== VanGoghOilPainting
+
+image::flowers/VanGoghOilPainting.jpg[scaledwidth=50%]
+
+=== VibrantPink
+
+image::flowers/VibrantPink.jpg[scaledwidth=50%]
+
+=== WetBud
+
+image::flowers/WetBud.jpg[scaledwidth=50%]
+
+=== Wheat
+
+image::flowers/Wheat.jpg[scaledwidth=50%]
+
+=== WhiteFlowers
+
+image::flowers/WhiteFlowers.jpg[scaledwidth=50%]
+
+=== WhiteFlowers
+
+image::flowers/WhiteFlowers.png[scaledwidth=50%]
+
+=== WhiteRose
+
+image::flowers/WhiteRose.png[scaledwidth=50%]
 
 == forest
 
-=== forest/BatSwarm.jpg
+=== BatSwarm
 
-=== forest/BirdsEyeForest.png
+image::forest/BatSwarm.jpg[scaledwidth=50%]
 
-=== forest/BlackMetalMadeForest.jpg
+=== BirdsEyeForest
 
-=== forest/ChillCabin.png
+image::forest/BirdsEyeForest.png[scaledwidth=50%]
 
-=== forest/DrippingBranches.jpg
+=== BlackMetalMadeForest
 
-=== forest/FantasyWoods.jpg
+image::forest/BlackMetalMadeForest.jpg[scaledwidth=50%]
 
-=== forest/FellTrunk.jpg
+=== ChillCabin
 
-=== forest/FoggyWoods.jpg
+image::forest/ChillCabin.png[scaledwidth=50%]
 
-=== forest/Forest.jpg
+=== DrippingBranches
 
-=== forest/ForestPath.jpg
+image::forest/DrippingBranches.jpg[scaledwidth=50%]
 
-=== forest/FrozenForest.jpg
+=== FantasyWoods
 
-=== forest/GloomyWoods.jpg
+image::forest/FantasyWoods.jpg[scaledwidth=50%]
 
-=== forest/Leaves.jpg
+=== FellTrunk
 
-=== forest/PineForest.jpg
+image::forest/FellTrunk.jpg[scaledwidth=50%]
 
-=== forest/RussianTrees.jpg
+=== FoggyWoods
 
-=== forest/SnowyForest.jpg
+image::forest/FoggyWoods.jpg[scaledwidth=50%]
 
-=== forest/SnowyWoods.jpg
+=== Forest
 
-=== forest/WormsEye.jpg
+image::forest/Forest.jpg[scaledwidth=50%]
+
+=== ForestPath
+
+image::forest/ForestPath.jpg[scaledwidth=50%]
+
+=== FrozenForest
+
+image::forest/FrozenForest.jpg[scaledwidth=50%]
+
+=== GloomyWoods
+
+image::forest/GloomyWoods.jpg[scaledwidth=50%]
+
+=== Leaves
+
+image::forest/Leaves.jpg[scaledwidth=50%]
+
+=== PineForest
+
+image::forest/PineForest.jpg[scaledwidth=50%]
+
+=== RussianTrees
+
+image::forest/RussianTrees.jpg[scaledwidth=50%]
+
+=== SnowyForest
+
+image::forest/SnowyForest.jpg[scaledwidth=50%]
+
+=== SnowyWoods
+
+image::forest/SnowyWoods.jpg[scaledwidth=50%]
+
+=== WormsEye
+
+image::forest/WormsEye.jpg[scaledwidth=50%]
 
 == gruvbox
 
-=== gruvbox/AsianHills.jpg
+=== AsianHills
 
-=== gruvbox/CyberpunkRooftops.jpg
+image::gruvbox/AsianHills.jpg[scaledwidth=50%]
 
-=== gruvbox/Forest.png
+=== CyberpunkRooftops
 
-=== gruvbox/InTown.jpg
+image::gruvbox/CyberpunkRooftops.jpg[scaledwidth=50%]
 
-=== gruvbox/Lines.png
+=== Forest
 
-=== gruvbox/LinesDarker.png
+image::gruvbox/Forest.png[scaledwidth=50%]
 
-=== gruvbox/Platform.jpg
+=== InTown
+
+image::gruvbox/InTown.jpg[scaledwidth=50%]
+
+=== Lines
+
+image::gruvbox/Lines.png[scaledwidth=50%]
+
+=== LinesDarker
+
+image::gruvbox/LinesDarker.png[scaledwidth=50%]
+
+=== Platform
+
+image::gruvbox/Platform.jpg[scaledwidth=50%]
 
 == landscape
 
-=== landscape/AutumnRoad.png
+=== AutumnRoad
 
-=== landscape/BigLake.png
+image::landscape/AutumnRoad.png[scaledwidth=50%]
 
-=== landscape/BurningCar.jpg
+=== BigLake
 
-=== landscape/CloudyMountain.jpg
+image::landscape/BigLake.png[scaledwidth=50%]
 
-=== landscape/DarkMountains.jpg
+=== BurningCar
 
-=== landscape/FlowingWaterfalls.jpg
+image::landscape/BurningCar.jpg[scaledwidth=50%]
 
-=== landscape/GrainFieldSunset.jpg
+=== CloudyMountain
 
-=== landscape/IronBridge.jpg
+image::landscape/CloudyMountain.jpg[scaledwidth=50%]
 
-=== landscape/JungleMountains.jpg
+=== DarkMountains
 
-=== landscape/LilacsPainting.jpg
+image::landscape/DarkMountains.jpg[scaledwidth=50%]
 
-=== landscape/MuricaRocks.jpg
+=== FlowingWaterfalls
 
-=== landscape/PagodaPixelArt.jpg
+image::landscape/FlowingWaterfalls.jpg[scaledwidth=50%]
 
-=== landscape/PoolBar.jpg
+=== GrainFieldSunset
 
-=== landscape/RockyMountains.jpg
+image::landscape/GrainFieldSunset.jpg[scaledwidth=50%]
 
-=== landscape/SnowyHorizon.jpg
+=== IronBridge
 
-=== landscape/SnowyMountains.jpg
+image::landscape/IronBridge.jpg[scaledwidth=50%]
 
-=== landscape/Somewhere.jpg
+=== JungleMountains
 
-=== landscape/WheatField.jpg
+image::landscape/JungleMountains.jpg[scaledwidth=50%]
 
-=== landscape/Windmill.jpg
+=== LilacsPainting
 
-=== landscape/WinterLandscape.jpg
+image::landscape/LilacsPainting.jpg[scaledwidth=50%]
 
-=== landscape/WinteryChurch.jpg
+=== MuricaRocks
 
-=== landscape/XPModern.jpg
+image::landscape/MuricaRocks.jpg[scaledwidth=50%]
 
-=== landscape/YosemiteLandscape.jpg
+=== PagodaPixelArt
+
+image::landscape/PagodaPixelArt.jpg[scaledwidth=50%]
+
+=== PoolBar
+
+image::landscape/PoolBar.jpg[scaledwidth=50%]
+
+=== RockyMountains
+
+image::landscape/RockyMountains.jpg[scaledwidth=50%]
+
+=== SnowyHorizon
+
+image::landscape/SnowyHorizon.jpg[scaledwidth=50%]
+
+=== SnowyMountains
+
+image::landscape/SnowyMountains.jpg[scaledwidth=50%]
+
+=== Somewhere
+
+image::landscape/Somewhere.jpg[scaledwidth=50%]
+
+=== WheatField
+
+image::landscape/WheatField.jpg[scaledwidth=50%]
+
+=== Windmill
+
+image::landscape/Windmill.jpg[scaledwidth=50%]
+
+=== WinterLandscape
+
+image::landscape/WinterLandscape.jpg[scaledwidth=50%]
+
+=== WinteryChurch
+
+image::landscape/WinteryChurch.jpg[scaledwidth=50%]
+
+=== XPModern
+
+image::landscape/XPModern.jpg[scaledwidth=50%]
+
+=== YosemiteLandscape
+
+image::landscape/YosemiteLandscape.jpg[scaledwidth=50%]
 
 == paintings
 
-=== paintings/BattleOfGrunwald.jpg
+=== BattleOfGrunwald
 
-=== paintings/LondonOverview.jpg
+image::paintings/BattleOfGrunwald.jpg[scaledwidth=50%]
 
-=== paintings/SinkingVessel.jpg
+=== LondonOverview
 
-=== paintings/VenicePainting.jpg
+image::paintings/LondonOverview.jpg[scaledwidth=50%]
+
+=== SinkingVessel
+
+image::paintings/SinkingVessel.jpg[scaledwidth=50%]
+
+=== VenicePainting
+
+image::paintings/VenicePainting.jpg[scaledwidth=50%]
 
 == sea
 
-=== sea/Beach.jpg
+=== Beach
 
-=== sea/Coast.jpg
+image::sea/Beach.jpg[scaledwidth=50%]
 
-=== sea/CoastWaves.jpg
+=== Coast
 
-=== sea/ComfyWaves.jpg
+image::sea/Coast.jpg[scaledwidth=50%]
 
-=== sea/CozyCoast.png
+=== CoastWaves
 
-=== sea/EtherealSea.jpg
+image::sea/CoastWaves.jpg[scaledwidth=50%]
 
-=== sea/FoamyBeach.jpg
+=== ComfyWaves
 
-=== sea/IceOnTheSea.jpg
+image::sea/ComfyWaves.jpg[scaledwidth=50%]
 
-=== sea/Lighthouse.jpg
+=== CozyCoast
 
-=== sea/Lighthouse.png
+image::sea/CozyCoast.png[scaledwidth=50%]
 
-=== sea/MoarBeach.jpg
+=== EtherealSea
 
-=== sea/OceanFront.png
+image::sea/EtherealSea.jpg[scaledwidth=50%]
 
-=== sea/ProllyGoingToDegirl.png
+=== FoamyBeach
 
-=== sea/SeaFoam.jpg
+image::sea/FoamyBeach.jpg[scaledwidth=50%]
 
-=== sea/WarmWaves.jpg
+=== IceOnTheSea
 
-=== sea/WildWaves.jpg
+image::sea/IceOnTheSea.jpg[scaledwidth=50%]
 
-=== sea/YetAnotherSeaWallpaper.jpg
+=== Lighthouse
+
+image::sea/Lighthouse.jpg[scaledwidth=50%]
+
+=== Lighthouse
+
+image::sea/Lighthouse.png[scaledwidth=50%]
+
+=== MoarBeach
+
+image::sea/MoarBeach.jpg[scaledwidth=50%]
+
+=== OceanFront
+
+image::sea/OceanFront.png[scaledwidth=50%]
+
+=== ProllyGoingToDegirl
+
+image::sea/ProllyGoingToDegirl.png[scaledwidth=50%]
+
+=== SeaFoam
+
+image::sea/SeaFoam.jpg[scaledwidth=50%]
+
+=== WarmWaves
+
+image::sea/WarmWaves.jpg[scaledwidth=50%]
+
+=== WildWaves
+
+image::sea/WildWaves.jpg[scaledwidth=50%]
+
+=== YetAnotherSeaWallpaper
+
+image::sea/YetAnotherSeaWallpaper.jpg[scaledwidth=50%]
 
 == sky
 
-=== sky/BrownBuilding.jpg
+=== BrownBuilding
 
-=== sky/Clouds.jpg
+image::sky/BrownBuilding.jpg[scaledwidth=50%]
 
-=== sky/CloudsCyan.jpg
+=== Clouds
 
-=== sky/ColorfulParachute.jpg
+image::sky/Clouds.jpg[scaledwidth=50%]
 
-=== sky/DegirledAnimeClouds.png
+=== CloudsCyan
 
-=== sky/GirlRemoved.png
+image::sky/CloudsCyan.jpg[scaledwidth=50%]
 
-=== sky/GodrayClouds.jpg
+=== ColorfulParachute
 
-=== sky/GoldenGate.jpg
+image::sky/ColorfulParachute.jpg[scaledwidth=50%]
 
-=== sky/GoldenGateLandscape.jpg
+=== DegirledAnimeClouds
 
-=== sky/LonePlane.jpg
+image::sky/DegirledAnimeClouds.png[scaledwidth=50%]
 
-=== sky/MinimalistBuilding.jpg
+=== GirlRemoved
 
-=== sky/ModernArchitecture.jpg
+image::sky/GirlRemoved.png[scaledwidth=50%]
 
-=== sky/Nebula.jpg
+=== GodrayClouds
 
-=== sky/NightSky.jpg
+image::sky/GodrayClouds.jpg[scaledwidth=50%]
 
-=== sky/PalmLeaves.jpg
+=== GoldenGate
 
-=== sky/UrbanSky.jpg
+image::sky/GoldenGate.jpg[scaledwidth=50%]
 
-=== sky/WeatherStation.jpg
+=== GoldenGateLandscape
 
-=== sky/WormsEyeUrban.jpg
+image::sky/GoldenGateLandscape.jpg[scaledwidth=50%]
+
+=== LonePlane
+
+image::sky/LonePlane.jpg[scaledwidth=50%]
+
+=== MinimalistBuilding
+
+image::sky/MinimalistBuilding.jpg[scaledwidth=50%]
+
+=== ModernArchitecture
+
+image::sky/ModernArchitecture.jpg[scaledwidth=50%]
+
+=== Nebula
+
+image::sky/Nebula.jpg[scaledwidth=50%]
+
+=== NightSky
+
+image::sky/NightSky.jpg[scaledwidth=50%]
+
+=== PalmLeaves
+
+image::sky/PalmLeaves.jpg[scaledwidth=50%]
+
+=== UrbanSky
+
+image::sky/UrbanSky.jpg[scaledwidth=50%]
+
+=== WeatherStation
+
+image::sky/WeatherStation.jpg[scaledwidth=50%]
+
+=== WormsEyeUrban
+
+image::sky/WormsEyeUrban.jpg[scaledwidth=50%]
 
 == solarized
 
-=== solarized/ColorfulBall.png
+=== ColorfulBall
 
-=== solarized/DotFlurry.png
+image::solarized/ColorfulBall.png[scaledwidth=50%]
 
-=== solarized/Elements.jpg
+=== DotFlurry
 
-=== solarized/Leaves.png
+image::solarized/DotFlurry.png[scaledwidth=50%]
 
-=== solarized/NightCitySky.jpg
+=== Elements
 
-=== solarized/Owl.jpg
+image::solarized/Elements.jpg[scaledwidth=50%]
 
-=== solarized/SolarizedDots.png
+=== Leaves
 
-=== solarized/SolarizedFilesystem.png
+image::solarized/Leaves.png[scaledwidth=50%]
+
+=== NightCitySky
+
+image::solarized/NightCitySky.jpg[scaledwidth=50%]
+
+=== Owl
+
+image::solarized/Owl.jpg[scaledwidth=50%]
+
+=== SolarizedDots
+
+image::solarized/SolarizedDots.png[scaledwidth=50%]
+
+=== SolarizedFilesystem
+
+image::solarized/SolarizedFilesystem.png[scaledwidth=50%]
 
 == tokyonight
 
-=== tokyonight/AnimeWaiting.png
+=== AnimeWaiting
 
-=== tokyonight/AnimeWaiting2.jpg
+image::tokyonight/AnimeWaiting.png[scaledwidth=50%]
 
-=== tokyonight/ChainsawMan.png
+=== AnimeWaiting2
 
-=== tokyonight/PixelartCity.png
+image::tokyonight/AnimeWaiting2.jpg[scaledwidth=50%]
 
-=== tokyonight/Simple.png
+=== ChainsawMan
 
-=== tokyonight/Space.png
+image::tokyonight/ChainsawMan.png[scaledwidth=50%]
 
-=== tokyonight/ToyCity.jpg
+=== PixelartCity
 
-=== tokyonight/WithTheGirl:chad:.png
+image::tokyonight/PixelartCity.png[scaledwidth=50%]
+
+=== Simple
+
+image::tokyonight/Simple.png[scaledwidth=50%]
+
+=== Space
+
+image::tokyonight/Space.png[scaledwidth=50%]
+
+=== ToyCity
+
+image::tokyonight/ToyCity.jpg[scaledwidth=50%]
+
+=== WithTheGirl:chad:
+
+image::tokyonight/WithTheGirl:chad:.png[scaledwidth=50%]
 
 == urban
 
-=== urban/AirplaneCat.jpg
+=== AirplaneCat
 
-=== urban/AnimeDocks.jpg
+image::urban/AirplaneCat.jpg[scaledwidth=50%]
 
-=== urban/AnimeRailway.png
+=== AnimeDocks
 
-=== urban/ApartmentComplex.jpg
+image::urban/AnimeDocks.jpg[scaledwidth=50%]
 
-=== urban/AsianBuildings.jpg
+=== AnimeRailway
 
-=== urban/AutumnLada.jpg
+image::urban/AnimeRailway.png[scaledwidth=50%]
 
-=== urban/BackalleyDoor.jpg
+=== ApartmentComplex
 
-=== urban/BlockOfFlats.jpg
+image::urban/ApartmentComplex.jpg[scaledwidth=50%]
 
-=== urban/Burocracy:(.jpg
+=== AsianBuildings
 
-=== urban/CatLooksSus.jpg
+image::urban/AsianBuildings.jpg[scaledwidth=50%]
 
-=== urban/CemeteryStreet.jpg
+=== AutumnLada
 
-=== urban/CentralPark.jpg
+image::urban/AutumnLada.jpg[scaledwidth=50%]
 
-=== urban/ChicagoRailway.jpg
+=== BackalleyDoor
 
-=== urban/ChinesePixelSquare.png
+image::urban/BackalleyDoor.jpg[scaledwidth=50%]
 
-=== urban/ColorfulHouse.png
+=== BlockOfFlats
 
-=== urban/CozyLamps.jpg
+image::urban/BlockOfFlats.jpg[scaledwidth=50%]
 
-=== urban/CyberpunkConstruction.jpg
+=== Burocracy:(
 
-=== urban/CyberpunkPixelart.png
+image::urban/Burocracy:(.jpg[scaledwidth=50%]
 
-=== urban/CyberpunkPixelartBlue.png
+=== CatLooksSus
 
-=== urban/FrenchRevolution.jpg
+image::urban/CatLooksSus.jpg[scaledwidth=50%]
 
-=== urban/GermanHouses.jpg
+=== CemeteryStreet
 
-=== urban/JapaneseStreetView.jpg
+image::urban/CemeteryStreet.jpg[scaledwidth=50%]
 
-=== urban/Kitty:3.jpg
+=== CentralPark
 
-=== urban/Laamp.jpg
+image::urban/CentralPark.jpg[scaledwidth=50%]
 
-=== urban/LamppostReflection.jpg
+=== ChicagoRailway
 
-=== urban/Lampposts.jpg
+image::urban/ChicagoRailway.jpg[scaledwidth=50%]
 
-=== urban/Moscow.jpg
+=== ChinesePixelSquare
 
-=== urban/NewYork.jpg
+image::urban/ChinesePixelSquare.png[scaledwidth=50%]
 
-=== urban/NightPark.jpg
+=== ColorfulHouse
 
-=== urban/NighttimeLandscape.png
+image::urban/ColorfulHouse.png[scaledwidth=50%]
 
-=== urban/NighttimeTrainTracks.png
+=== CozyLamps
 
-=== urban/OldTown.jpg
+image::urban/CozyLamps.jpg[scaledwidth=50%]
 
-=== urban/Paris.jpg
+=== CyberpunkConstruction
 
-=== urban/PixelBuildings.jpg
+image::urban/CyberpunkConstruction.jpg[scaledwidth=50%]
 
-=== urban/PixelBuildingsNord.png
+=== CyberpunkPixelart
 
-=== urban/StreetView.jpg
+image::urban/CyberpunkPixelart.png[scaledwidth=50%]
 
-=== urban/Streetlights.jpg
+=== CyberpunkPixelartBlue
 
-=== urban/ThroughFence.jpg
+image::urban/CyberpunkPixelartBlue.png[scaledwidth=50%]
 
-=== urban/Toronto.jpg
+=== FrenchRevolution
 
-=== urban/UrbanRiver.jpg
+image::urban/FrenchRevolution.jpg[scaledwidth=50%]
 
-=== urban/WarmCityscape.png
+=== GermanHouses
 
-=== urban/WetWinterRoad.jpg
+image::urban/GermanHouses.jpg[scaledwidth=50%]
 
-=== urban/WhiteSkyscraper.jpg
+=== JapaneseStreetView
 
-=== urban/ZucholdArchitecture.jpg
+image::urban/JapaneseStreetView.jpg[scaledwidth=50%]
+
+=== Kitty:3
+
+image::urban/Kitty:3.jpg[scaledwidth=50%]
+
+=== Laamp
+
+image::urban/Laamp.jpg[scaledwidth=50%]
+
+=== LamppostReflection
+
+image::urban/LamppostReflection.jpg[scaledwidth=50%]
+
+=== Lampposts
+
+image::urban/Lampposts.jpg[scaledwidth=50%]
+
+=== Moscow
+
+image::urban/Moscow.jpg[scaledwidth=50%]
+
+=== NewYork
+
+image::urban/NewYork.jpg[scaledwidth=50%]
+
+=== NightPark
+
+image::urban/NightPark.jpg[scaledwidth=50%]
+
+=== NighttimeLandscape
+
+image::urban/NighttimeLandscape.png[scaledwidth=50%]
+
+=== NighttimeTrainTracks
+
+image::urban/NighttimeTrainTracks.png[scaledwidth=50%]
+
+=== OldTown
+
+image::urban/OldTown.jpg[scaledwidth=50%]
+
+=== Paris
+
+image::urban/Paris.jpg[scaledwidth=50%]
+
+=== PixelBuildings
+
+image::urban/PixelBuildings.jpg[scaledwidth=50%]
+
+=== PixelBuildingsNord
+
+image::urban/PixelBuildingsNord.png[scaledwidth=50%]
+
+=== StreetView
+
+image::urban/StreetView.jpg[scaledwidth=50%]
+
+=== Streetlights
+
+image::urban/Streetlights.jpg[scaledwidth=50%]
+
+=== ThroughFence
+
+image::urban/ThroughFence.jpg[scaledwidth=50%]
+
+=== Toronto
+
+image::urban/Toronto.jpg[scaledwidth=50%]
+
+=== UrbanRiver
+
+image::urban/UrbanRiver.jpg[scaledwidth=50%]
+
+=== WarmCityscape
+
+image::urban/WarmCityscape.png[scaledwidth=50%]
+
+=== WetWinterRoad
+
+image::urban/WetWinterRoad.jpg[scaledwidth=50%]
+
+=== WhiteSkyscraper
+
+image::urban/WhiteSkyscraper.jpg[scaledwidth=50%]
+
+=== ZucholdArchitecture
+
+image::urban/ZucholdArchitecture.jpg[scaledwidth=50%]

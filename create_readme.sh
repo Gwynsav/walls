@@ -3,7 +3,10 @@
 list_wall_of_a_folder () {
 	find "${1}" -type f -print0 | while IFS= read -r -d '' file
 	do
-		printf "\n\n=== %s" "${file}" >> README.adoc
+		file_basename=$(basename "${file}" .jpg)
+		file_basename=$(basename "${file_basename}" .png)
+		printf "\n\n=== %s" "${file_basename}" >> README.adoc
+		printf "\n\nimage::%s[scaledwidth=50%%]" "${file}" >> README.adoc
 	done
 }
 
