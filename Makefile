@@ -1,2 +1,3 @@
 index:
-	asciidoctor README.adoc -o docs/index.html
+	./create_readme.sh
+	asciidoctor README.adoc -o index.html
