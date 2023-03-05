@@ -1,4 +1,6 @@
 = walls
+:nofooter:
+:toc: left
 Personal collection of wallpapers.
 
 == abstract
