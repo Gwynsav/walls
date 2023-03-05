@@ -5,13 +5,20 @@
 # $1 : folder
 # $2 : extension .png or .jpg
 generate_preview_extension () {
-	find "${1}" -type f -name "*.${2}" -print0 | while IFS= read -r -d '' file
+	find "${1}" -type f -name "*.${2}" \! -name "preview_*" -print0 | while IFS= read -r -d '' file
 	do
 		file_basename=$(basename "${file}" ${2})
-		echo ffmpeg -i ${file} -vf scale=320:-1 $(dirname ${file})/preview_${file_basename}${2}
+		file_preview="$(dirname ${file})/preview_${file_basename}${2}"
+		if [ ! -e "${file_preview}" ]; then
+			echo ffmpeg -i ${file} -vf scale=320:-1 "${file_preview}"
+			ffmpeg -i ${file} -vf scale=320:-1 "${file_preview}"
+		else
+			echo "DONE -> ${file_preview}"
+		fi
 	done
 }
 
+# $1 : folder name
 generate_preview () {
 	generate_preview_extension "${1}" png
 	generate_preview_extension "${1}" jpg
