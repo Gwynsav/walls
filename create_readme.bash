@@ -22,7 +22,7 @@ add_titles_and_preview () {
 main () {
 
 	# Header of the README
-	printf "= walls\n:nofooter:\n:toc: left\n:toclevels: 1\nPersonal collection of wallpapers." > README.adoc
+	printf "= walls\n:nofooter:\n:toc: left\n:toc-title: Categories\n:toclevels: 1\nPersonal collection of wallpapers." > README.adoc
 
 	add_titles_and_preview
 

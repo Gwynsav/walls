@@ -1,6 +1,7 @@
 = walls
 :nofooter:
 :toc: left
+:toc-title: Categories
 :toclevels: 1
 Personal collection of wallpapers.
 
