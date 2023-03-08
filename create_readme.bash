@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 list_wall_of_a_folder () {
 	find "${1}" -type f \! -name "preview_*" -print0 | while IFS= read -r -d '' file

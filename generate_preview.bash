@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 #ffmpeg -i input.jpg -vf scale=320:240 output_320x240.png
 
