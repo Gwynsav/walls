@@ -73,6 +73,10 @@ image::flowers/preview_BloomingTreeFlowers.jpg[link=flowers/BloomingTreeFlowers.
 
 image::flowers/preview_Wheat.jpg[link=flowers/Wheat.jpg]
 
+=== PinkFlowersOnWhiteBackground
+
+image::flowers/preview_PinkFlowersOnWhiteBackground.jpg[link=flowers/PinkFlowersOnWhiteBackground.jpg]
+
 === ColorfulBouquet
 
 image::flowers/preview_ColorfulBouquet.jpg[link=flowers/ColorfulBouquet.jpg]
@@ -117,6 +121,10 @@ image::flowers/preview_LadyBugOnMatricaria.jpg[link=flowers/LadyBugOnMatricaria.
 
 image::flowers/preview_Daisies.jpg[link=flowers/Daisies.jpg]
 
+=== PissFilter
+
+image::flowers/preview_PissFilter.jpg[link=flowers/PissFilter.jpg]
+
 === BranchedBlossoms
 
 image::flowers/preview_BranchedBlossoms.jpg[link=flowers/BranchedBlossoms.jpg]
@@ -124,6 +132,10 @@ image::flowers/preview_BranchedBlossoms.jpg[link=flowers/BranchedBlossoms.jpg]
 === Flashbang
 
 image::flowers/preview_Flashbang.jpg[link=flowers/Flashbang.jpg]
+
+=== BlurryBushes
+
+image::flowers/preview_BlurryBushes.jpg[link=flowers/BlurryBushes.jpg]
 
 === FenceFlowers
 
@@ -161,6 +173,10 @@ image::flowers/preview_BouquetOnOliveGreen.jpg[link=flowers/BouquetOnOliveGreen.
 
 image::flowers/preview_WhiteFlowers.jpg[link=flowers/WhiteFlowers.jpg]
 
+=== DimAndWhite
+
+image::flowers/preview_DimAndWhite.jpg[link=flowers/DimAndWhite.jpg]
+
 === BlurredOutFlowers
 
 image::flowers/preview_BlurredOutFlowers.jpg[link=flowers/BlurredOutFlowers.jpg]
@@ -192,6 +208,10 @@ image::flowers/preview_VanGoghOilPainting.jpg[link=flowers/VanGoghOilPainting.jp
 === OvergrownField
 
 image::flowers/preview_OvergrownField.jpg[link=flowers/OvergrownField.jpg]
+
+=== CloseUpBokeh
+
+image::flowers/preview_CloseUpBokeh.jpg[link=flowers/CloseUpBokeh.jpg]
 
 == gruvbox
 
@@ -330,6 +350,10 @@ image::sky/preview_SwedishClouds.jpg[link=sky/SwedishClouds.jpg]
 === Clouds
 
 image::sky/preview_Clouds.jpg[link=sky/Clouds.jpg]
+
+=== BlackNight
+
+image::sky/preview_BlackNight.jpg[link=sky/BlackNight.jpg]
 
 === GoldenGate
 
@@ -605,6 +629,10 @@ image::abstract/preview_BlueGradient.jpg[link=abstract/BlueGradient.jpg]
 
 image::abstract/preview_AbstractSwirls.jpg[link=abstract/AbstractSwirls.jpg]
 
+=== OddTexture
+
+image::abstract/preview_OddTexture.png[link=abstract/OddTexture.png]
+
 === GreenFluid
 
 image::abstract/preview_GreenFluid.png[link=abstract/GreenFluid.png]
@@ -666,6 +694,10 @@ image::sea/preview_MoarBeach.jpg[link=sea/MoarBeach.jpg]
 === YetAnotherSeaWallpaper
 
 image::sea/preview_YetAnotherSeaWallpaper.jpg[link=sea/YetAnotherSeaWallpaper.jpg]
+
+=== MacroBeach
+
+image::sea/preview_MacroBeach.jpg[link=sea/MacroBeach.jpg]
 
 === CoastWaves
 
@@ -729,6 +761,10 @@ image::solarized/preview_Owl.jpg[link=solarized/Owl.jpg]
 
 image::solarized/preview_SolarizedFilesystem.png[link=solarized/SolarizedFilesystem.png]
 
+=== dNdDark
+
+image::solarized/preview_dNdDark.png[link=solarized/dNdDark.png]
+
 === DotFlurry
 
 image::solarized/preview_DotFlurry.png[link=solarized/DotFlurry.png]
@@ -740,6 +776,14 @@ image::solarized/preview_SolarizedDots.png[link=solarized/SolarizedDots.png]
 === ColorfulBall
 
 image::solarized/preview_ColorfulBall.png[link=solarized/ColorfulBall.png]
+
+=== dNdMedium
+
+image::solarized/preview_dNdMedium.png[link=solarized/dNdMedium.png]
+
+=== dNdLight
+
+image::solarized/preview_dNdLight.png[link=solarized/dNdLight.png]
 
 == urban
 
@@ -771,6 +815,10 @@ image::urban/preview_OldShutters.jpg[link=urban/OldShutters.jpg]
 
 image::urban/preview_CyberpunkPixelartBlue.png[link=urban/CyberpunkPixelartBlue.png]
 
+=== NewYorkBridges
+
+image::urban/preview_NewYorkBridges.jpg[link=urban/NewYorkBridges.jpg]
+
 === CozyLamps
 
 image::urban/preview_CozyLamps.jpg[link=urban/CozyLamps.jpg]
@@ -778,6 +826,10 @@ image::urban/preview_CozyLamps.jpg[link=urban/CozyLamps.jpg]
 === AutumnLada
 
 image::urban/preview_AutumnLada.jpg[link=urban/AutumnLada.jpg]
+
+=== GrayBuildings
+
+image::urban/preview_GrayBuildings.jpg[link=urban/GrayBuildings.jpg]
 
 === CyberpunkPixelart
 
@@ -790,6 +842,10 @@ image::urban/preview_AsianBuildings.jpg[link=urban/AsianBuildings.jpg]
 === AirplaneCat
 
 image::urban/preview_AirplaneCat.jpg[link=urban/AirplaneCat.jpg]
+
+=== WeirdOverhang
+
+image::urban/preview_WeirdOverhang.jpg[link=urban/WeirdOverhang.jpg]
 
 === StreetView
 
@@ -826,6 +882,10 @@ image::urban/preview_WetWinterRoad.jpg[link=urban/WetWinterRoad.jpg]
 === BackalleyDoor
 
 image::urban/preview_BackalleyDoor.jpg[link=urban/BackalleyDoor.jpg]
+
+=== NewYorkPark
+
+image::urban/preview_NewYorkPark.jpg[link=urban/NewYorkPark.jpg]
 
 === BrooklynBridge
 
@@ -984,6 +1044,10 @@ image::anime/preview_RiverBoat.jpg[link=anime/RiverBoat.jpg]
 === MangaPIP2
 
 image::anime/preview_MangaPIP2.png[link=anime/MangaPIP2.png]
+
+=== SignsSignsSigns
+
+image::anime/preview_SignsSignsSigns.jpg[link=anime/SignsSignsSigns.jpg]
 
 === Cityscape
 
@@ -1256,6 +1320,10 @@ image::forest/preview_FellTrunk.jpg[link=forest/FellTrunk.jpg]
 === SnowyWoods
 
 image::forest/preview_SnowyWoods.jpg[link=forest/SnowyWoods.jpg]
+
+=== MacroBranch
+
+image::forest/preview_MacroBranch.jpg[link=forest/MacroBranch.jpg]
 
 === GloomyWoods
 
