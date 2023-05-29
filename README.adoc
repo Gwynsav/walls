@@ -19,10 +19,6 @@ image::decay/preview_Wave.png[link=decay/Wave.png]
 
 image::decay/preview_Dots.png[link=decay/Dots.png]
 
-=== Campfire
-
-image::decay/preview_Campfire.png[link=decay/Campfire.png]
-
 === PoolBar
 
 image::decay/preview_PoolBar.jpg[link=decay/PoolBar.jpg]
@@ -184,6 +180,10 @@ image::flowers/preview_BlurredOutFlowers.jpg[link=flowers/BlurredOutFlowers.jpg]
 === LilacBush
 
 image::flowers/preview_LilacBush.jpg[link=flowers/LilacBush.jpg]
+
+=== MacroOnBlue
+
+image::flowers/preview_MacroOnBlue.jpg[link=flowers/MacroOnBlue.jpg]
 
 === VibrantPink
 
@@ -371,6 +371,10 @@ image::sky/preview_WormsEyeUrban.jpg[link=sky/WormsEyeUrban.jpg]
 
 image::sky/preview_GodrayClouds.jpg[link=sky/GodrayClouds.jpg]
 
+=== Balconies
+
+image::sky/preview_Balconies.png[link=sky/Balconies.png]
+
 === ModernArchitecture
 
 image::sky/preview_ModernArchitecture.jpg[link=sky/ModernArchitecture.jpg]
@@ -378,6 +382,10 @@ image::sky/preview_ModernArchitecture.jpg[link=sky/ModernArchitecture.jpg]
 === ColorfulParachute
 
 image::sky/preview_ColorfulParachute.jpg[link=sky/ColorfulParachute.jpg]
+
+=== MistyNight
+
+image::sky/preview_MistyNight.jpg[link=sky/MistyNight.jpg]
 
 === DegirledAnimeClouds
 
@@ -581,6 +589,10 @@ image::abstract/preview_Hecker.jpg[link=abstract/Hecker.jpg]
 
 image::abstract/preview_LightBulbs.jpg[link=abstract/LightBulbs.jpg]
 
+=== WeirdFlowerl
+
+image::abstract/preview_WeirdFlowerl.jpg[link=abstract/WeirdFlowerl.jpg]
+
 === PokePattern
 
 image::abstract/preview_PokePattern.png[link=abstract/PokePattern.png]
@@ -617,6 +629,14 @@ image::abstract/preview_PurpleFluid.png[link=abstract/PurpleFluid.png]
 
 image::abstract/preview_AbstractMountains.png[link=abstract/AbstractMountains.png]
 
+=== DiscoElysium
+
+image::abstract/preview_DiscoElysium.png[link=abstract/DiscoElysium.png]
+
+=== RosesWallpaper
+
+image::abstract/preview_RosesWallpaper.png[link=abstract/RosesWallpaper.png]
+
 === AbstractHyperBeast
 
 image::abstract/preview_AbstractHyperBeast.jpg[link=abstract/AbstractHyperBeast.jpg]
@@ -624,6 +644,10 @@ image::abstract/preview_AbstractHyperBeast.jpg[link=abstract/AbstractHyperBeast.
 === BlueGradient
 
 image::abstract/preview_BlueGradient.jpg[link=abstract/BlueGradient.jpg]
+
+=== PokemonParas
+
+image::abstract/preview_PokemonParas.png[link=abstract/PokemonParas.png]
 
 === AbstractSwirls
 
@@ -769,6 +793,10 @@ image::solarized/preview_dNdDark.png[link=solarized/dNdDark.png]
 
 image::solarized/preview_DotFlurry.png[link=solarized/DotFlurry.png]
 
+=== GasStation
+
+image::solarized/preview_GasStation.jpg[link=solarized/GasStation.jpg]
+
 === SolarizedDots
 
 image::solarized/preview_SolarizedDots.png[link=solarized/SolarizedDots.png]
@@ -811,6 +839,10 @@ image::urban/preview_BlockOfFlats.jpg[link=urban/BlockOfFlats.jpg]
 
 image::urban/preview_OldShutters.jpg[link=urban/OldShutters.jpg]
 
+=== A70Supra
+
+image::urban/preview_A70Supra.jpg[link=urban/A70Supra.jpg]
+
 === CyberpunkPixelartBlue
 
 image::urban/preview_CyberpunkPixelartBlue.png[link=urban/CyberpunkPixelartBlue.png]
@@ -822,6 +854,10 @@ image::urban/preview_NewYorkBridges.jpg[link=urban/NewYorkBridges.jpg]
 === CozyLamps
 
 image::urban/preview_CozyLamps.jpg[link=urban/CozyLamps.jpg]
+
+=== WaneellaPixelart
+
+image::urban/preview_WaneellaPixelart.jpg[link=urban/WaneellaPixelart.jpg]
 
 === AutumnLada
 
@@ -879,6 +915,10 @@ image::urban/preview_PixelBuildingsNord.png[link=urban/PixelBuildingsNord.png]
 
 image::urban/preview_WetWinterRoad.jpg[link=urban/WetWinterRoad.jpg]
 
+=== PixelartDowntown
+
+image::urban/preview_PixelartDowntown.png[link=urban/PixelartDowntown.png]
+
 === BackalleyDoor
 
 image::urban/preview_BackalleyDoor.jpg[link=urban/BackalleyDoor.jpg]
@@ -894,6 +934,10 @@ image::urban/preview_BrooklynBridge.jpg[link=urban/BrooklynBridge.jpg]
 === NoisySkyscraper
 
 image::urban/preview_NoisySkyscraper.jpg[link=urban/NoisySkyscraper.jpg]
+
+=== SanFranciscoClocktower
+
+image::urban/preview_SanFranciscoClocktower.jpg[link=urban/SanFranciscoClocktower.jpg]
 
 === UrbanRiver
 
@@ -927,6 +971,10 @@ image::urban/preview_CemeteryStreet.jpg[link=urban/CemeteryStreet.jpg]
 
 image::urban/preview_NewYork.jpg[link=urban/NewYork.jpg]
 
+=== ColorfulWindows
+
+image::urban/preview_ColorfulWindows.jpg[link=urban/ColorfulWindows.jpg]
+
 === DarkRooftops
 
 image::urban/preview_DarkRooftops.png[link=urban/DarkRooftops.png]
@@ -946,6 +994,14 @@ image::urban/preview_GermanHouses.jpg[link=urban/GermanHouses.jpg]
 === WarmCityscape
 
 image::urban/preview_WarmCityscape.png[link=urban/WarmCityscape.png]
+
+=== Facade
+
+image::urban/preview_Facade.jpg[link=urban/Facade.jpg]
+
+=== Crystal
+
+image::urban/preview_Crystal.jpg[link=urban/Crystal.jpg]
 
 === AnimeDocks
 
@@ -971,13 +1027,17 @@ image::urban/preview_GreenStreets.jpg[link=urban/GreenStreets.jpg]
 
 image::urban/preview_AerialCityscape.jpg[link=urban/AerialCityscape.jpg]
 
+=== 69Camaro
+
+image::urban/preview_69Camaro.jpg[link=urban/69Camaro.jpg]
+
 === AnimeRailway
 
 image::urban/preview_AnimeRailway.png[link=urban/AnimeRailway.png]
 
-=== ChinesePixelSquare
+=== SkycraperWormsEye
 
-image::urban/preview_ChinesePixelSquare.png[link=urban/ChinesePixelSquare.png]
+image::urban/preview_SkycraperWormsEye.jpg[link=urban/SkycraperWormsEye.jpg]
 
 === Streetlights
 
@@ -1025,6 +1085,14 @@ image::urban/preview_LamppostReflection.jpg[link=urban/LamppostReflection.jpg]
 
 image::anime/preview_SolarizedAngel.png[link=anime/SolarizedAngel.png]
 
+=== GhibiliStream
+
+image::anime/preview_GhibiliStream.png[link=anime/GhibiliStream.png]
+
+=== Hanabi
+
+image::anime/preview_Hanabi.jpg[link=anime/Hanabi.jpg]
+
 === SmdSenpai
 
 image::anime/preview_SmdSenpai.png[link=anime/SmdSenpai.png]
@@ -1056,6 +1124,18 @@ image::anime/preview_Cityscape.jpg[link=anime/Cityscape.jpg]
 === AE86Trueno
 
 image::anime/preview_AE86Trueno.jpg[link=anime/AE86Trueno.jpg]
+
+=== ExplosiveTest
+
+image::anime/preview_ExplosiveTest.png[link=anime/ExplosiveTest.png]
+
+=== GhibiliRoots
+
+image::anime/preview_GhibiliRoots.png[link=anime/GhibiliRoots.png]
+
+=== NightTrain
+
+image::anime/preview_NightTrain.jpg[link=anime/NightTrain.jpg]
 
 === GirlAndCorgi
 
@@ -1105,6 +1185,10 @@ image::anime/preview_Eyes.jpg[link=anime/Eyes.jpg]
 
 image::anime/preview_ThornThrone.png[link=anime/ThornThrone.png]
 
+=== AutumnWitch
+
+image::anime/preview_AutumnWitch.jpg[link=anime/AutumnWitch.jpg]
+
 === PregnantCapacitator
 
 image::anime/preview_PregnantCapacitator.png[link=anime/PregnantCapacitator.png]
@@ -1124,6 +1208,10 @@ image::anime/preview_CityspaceIndoors.jpg[link=anime/CityspaceIndoors.jpg]
 === KobayashiCar
 
 image::anime/preview_KobayashiCar.jpg[link=anime/KobayashiCar.jpg]
+
+=== PixelartCityscape
+
+image::anime/preview_PixelartCityscape.png[link=anime/PixelartCityscape.png]
 
 === FloatingTrain
 
@@ -1185,9 +1273,9 @@ image::landscape/preview_JungleMountains.jpg[link=landscape/JungleMountains.jpg]
 
 image::landscape/preview_WinteryChurch.jpg[link=landscape/WinteryChurch.jpg]
 
-=== PagodaPixelArt
+=== FoggyDam
 
-image::landscape/preview_PagodaPixelArt.jpg[link=landscape/PagodaPixelArt.jpg]
+image::landscape/preview_FoggyDam.jpg[link=landscape/FoggyDam.jpg]
 
 === SnowyHorizon
 
@@ -1241,10 +1329,6 @@ image::landscape/preview_RockyMountains.jpg[link=landscape/RockyMountains.jpg]
 
 image::landscape/preview_IronBridge.jpg[link=landscape/IronBridge.jpg]
 
-=== PoolBar
-
-image::landscape/preview_PoolBar.jpg[link=landscape/PoolBar.jpg]
-
 === SnowyMountains
 
 image::landscape/preview_SnowyMountains.jpg[link=landscape/SnowyMountains.jpg]
@@ -1260,6 +1344,10 @@ image::landscape/preview_FlowingWaterfalls.jpg[link=landscape/FlowingWaterfalls.
 === Windmill
 
 image::landscape/preview_Windmill.jpg[link=landscape/Windmill.jpg]
+
+=== MyanmarLandscape
+
+image::landscape/preview_MyanmarLandscape.jpg[link=landscape/MyanmarLandscape.jpg]
 
 === YosemiteLandscape
 
@@ -1365,6 +1453,10 @@ image::forest/preview_BatSwarm.jpg[link=forest/BatSwarm.jpg]
 
 image::forest/preview_ChillCabin.png[link=forest/ChillCabin.png]
 
+=== MacroTrees
+
+image::forest/preview_MacroTrees.jpg[link=forest/MacroTrees.jpg]
+
 === FrozenForest
 
 image::forest/preview_FrozenForest.jpg[link=forest/FrozenForest.jpg]
@@ -1395,10 +1487,6 @@ image::catppuccin/preview_BlossomsCatppuccin.png[link=catppuccin/BlossomsCatppuc
 
 image::catppuccin/preview_AbstractMountains.png[link=catppuccin/AbstractMountains.png]
 
-=== PixelartCity
-
-image::catppuccin/preview_PixelartCity.png[link=catppuccin/PixelartCity.png]
-
 === Bass
 
 image::catppuccin/preview_Bass.png[link=catppuccin/Bass.png]
@@ -1406,3 +1494,33 @@ image::catppuccin/preview_Bass.png[link=catppuccin/Bass.png]
 === Flowers
 
 image::catppuccin/preview_Flowers.png[link=catppuccin/Flowers.png]
+
+== pixelart
+
+=== MarketGarden
+
+image::pixelart/preview_MarketGarden.png[link=pixelart/MarketGarden.png]
+
+=== PagodaPixelArt
+
+image::pixelart/preview_PagodaPixelArt.jpg[link=pixelart/PagodaPixelArt.jpg]
+
+=== Campfire
+
+image::pixelart/preview_Campfire.png[link=pixelart/Campfire.png]
+
+=== PixelartCity
+
+image::pixelart/preview_PixelartCity.png[link=pixelart/PixelartCity.png]
+
+=== PoolBar
+
+image::pixelart/preview_PoolBar.jpg[link=pixelart/PoolBar.jpg]
+
+=== CozyReading
+
+image::pixelart/preview_CozyReading.png[link=pixelart/CozyReading.png]
+
+=== ChinesePixelSquare
+
+image::pixelart/preview_ChinesePixelSquare.png[link=pixelart/ChinesePixelSquare.png]
